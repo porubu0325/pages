@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日記 ArchiveBox on ほびサイト</title>
+    <link>http://localhost:1313/categories/%E6%97%A5%E8%A8%98-archivebox/</link>
+    <description>Recent content in 日記 ArchiveBox on ほびサイト</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 13 Jan 2026 00:26:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%97%A5%E8%A8%98-archivebox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自前でWayback Machineを作ろう</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-20-webarchive/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-20-webarchive/</guid>
+      <description>&lt;p&gt;現在、自前でWayback Machineみたいなものを作ろうとするために、過去のブックマークをすべてアーカイブ化しています。&lt;/p&gt;&#xA;&lt;p&gt;構築は2月頃を考えています。その前にProxmoxをいろいろ構築しないといけないのですが&amp;hellip;DNSの設定で躓いています。&lt;/p&gt;&#xA;&lt;p&gt;いろいろいじってみても、まともに起動しない。&lt;/p&gt;&#xA;&lt;p&gt;どうやらProxmoxに直接入れられるらしく、その場合VMがいらないらしいのでやってみたのですが、今度はVMが起動しなくなりました。&lt;/p&gt;&#xA;&lt;p&gt;ネットワークって難しい、、、&lt;/p&gt;&#xA;&lt;p&gt;そうそう、ジャンクワールドに3800円でRTX1200（NVIDIAではなくYAMAHAね）が入荷していたので、それを買おうと思います。来月給料が出たら。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

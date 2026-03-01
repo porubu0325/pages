@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary on ほびサイト</title>
+    <link>http://localhost:1313/categories/diary/</link>
+    <description>Recent content in Diary on ほびサイト</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 10 Feb 2026 13:33:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりのブログ＆サイト公開に手こずりました</title>
+      <link>http://localhost:1313/blog/2026/02/10-blog-iten/</link>
+      <pubDate>Tue, 10 Feb 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/02/10-blog-iten/</guid>
+      <description>&lt;p&gt;お久しぶりのブログです。&#xA;今日から自分のサイトをCodeberg Pagesで公開することにしましたが、それにあたっていろいろドメイン周りで手こずりました。。&#xA;CloudflareのDNSではALIASが使えないのでCNAMEだけでやろうとしたらうまくいかず、reponame.username.codeberg.page形式でやっても表示されずでいろいろ試行錯誤しましたが、最終的に&lt;a href=&#34;https://docs.codeberg.org/codeberg-pages/using-custom-domain/&#34;&gt;公式ドキュメント&lt;/a&gt;通りにやったらなんとかうまく表示されてくれました。&lt;/p&gt;&#xA;&lt;p&gt;これで再び自分のサイトを独自ドメインで公開できます。ただしブログはまだ。&#xA;今度はブログを独自ドメインにするのにいろいろ手こずっています。いずれはこっちも独自ドメインにしたい。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>今月もありがとうございました</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-31-arigatou/</link>
+      <pubDate>Sat, 31 Jan 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-31-arigatou/</guid>
+      <description>&lt;p&gt;なんか5日ぐらいサボっていましたが、ただ単にネタがなかっただけです。&lt;/p&gt;&#xA;&lt;p&gt;今月はほぼ所持金が尽きているのでしばらく何も買えません、、、、、&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>元気です</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-24-genki-desu/</link>
+      <pubDate>Sat, 24 Jan 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-24-genki-desu/</guid>
+      <description>&lt;p&gt;なんとか元気にやってます。&lt;/p&gt;&#xA;&lt;p&gt;昨日は久しぶりに回転寿司へ行きました。いつもの家から近い方ではなく、ハードオフの隣の方のやつです（わかんねえよ&lt;/p&gt;&#xA;&lt;p&gt;それ以外は一日中ぐったりだったのでなんもやってませんでした。少なくともProxmoxはいじりました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>元気です</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-26-samui/</link>
+      <pubDate>Sat, 24 Jan 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-26-samui/</guid>
+      <description>&lt;p&gt;寒いですね。&lt;/p&gt;&#xA;&lt;p&gt;昨日はいろいろ見に大宮まで行きましたが、結局何も買ってませんし何も食べてません。&lt;/p&gt;&#xA;&lt;p&gt;でもココ壱とかは行ってみたいかな。&lt;/p&gt;&#xA;&lt;p&gt;スマホとかありましたけどそれは来月の給料が出たら、買うことにします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>朝からすごくだるかったです＆回転寿司</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-23-kaiten-zushi/</link>
+      <pubDate>Fri, 23 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-23-kaiten-zushi/</guid>
+      <description>&lt;p&gt;今日は朝何も食べていない上にそんなに寝れていないため、晩御飯を食べるまでぐったりしていました。&lt;/p&gt;&#xA;&lt;p&gt;そのため、朝に書こうと思っているブログを21時に書いています。&lt;/p&gt;&#xA;&lt;p&gt;そうそう、回転寿司行きました。うまかったです（語彙力）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>早起きしたのかすごくねむい</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-22-nemui/</link>
+      <pubDate>Thu, 22 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-22-nemui/</guid>
+      <description>&lt;p&gt;今日はいつもより1時間はやく起きたのですが・・・すごく眠くていつもよりぐったりしています。&lt;/p&gt;&#xA;&lt;p&gt;23時頃に寝ようとしていたのですが、はProxmoxでDNS設定と格闘していて布団に入れなかったので、結局寝たのは24時ごろになってしまいました。&lt;/p&gt;&#xA;&lt;p&gt;これがかなり曲者で、、、今回はUbuntu ServerではなくRocky Linuxを使用しましたが、firewalldは今回が使うのが初めてでいろいろ苦戦していました。&lt;/p&gt;&#xA;&lt;p&gt;その上ネットワーク設定がうまくいかず、エラーが出て検索してもなかなかヒットせず、、、いろいろあったわけです。&lt;/p&gt;&#xA;&lt;p&gt;今週末はネットワーク設定にまるまる漬けるか・・・&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xのアカウントを全て削除しました</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-21-elon-sucks/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-21-elon-sucks/</guid>
+      <description>&lt;p&gt;今年１月ごろに全て削除するようにして、その数日後結局復活させたXのアカウントですが、この度全て削除することにしました。&lt;/p&gt;&#xA;&lt;p&gt;もともとbotを動か&lt;del&gt;してゴミを捨てる&lt;/del&gt;す用に10個ぐらいのアカウントを作って&lt;del&gt;イーロンの邪魔をしてやろうと思って&lt;/del&gt;（むしろこっちが本音）いたのですが、X運営の実権を握っているがイーロン・マスクという1人の億万長者であり、そのうえ独自の議論を生むような生成AIを運営している以上、サーバーのリソースが自分1人では敵わないほど十分にある以上、イーロンのAI&lt;del&gt;という糞みたいな趣味が悪いもの&lt;/del&gt;にエサを与えてるような感じになっていると考えたからです。&lt;/p&gt;&#xA;&lt;p&gt;そもそもMisskeyやMastodonなど（Fediverse）からでもブリッジがあれば見れるし、Xの投稿を見るなら代替えフロントエンドがあるし、Xのアカウント自体作らなくても良いのかもしれません。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、Xのアカウントをこの度は削除させていただいた、という報告の記事です。あとついでにBlueskyのアカウントも消します。ゴミ捨て場はしばらくうちのMisskey（オブジェクトストレージがCloudflare R2）を使っておきます。あばよX！！！！！！！！！&lt;/p&gt;&#xA;&lt;p&gt;2026年1月31日追記&#xA;&lt;del&gt;XをやめてもNitterから見ることをやめられません。一応Nitterを使用してRSSを取得していますが、Nitterインスタンスも基本は外部である上に、いつまで持つか分からないので、結局アカウントを復活させました。&#xA;まあといっても、用途は自動ポストぐらいしかないのですが。&lt;/del&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

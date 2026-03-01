@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="ja-jp" dir="ltr">
+ 
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>サーバー情報 | ほびサイト</title>
+
+    <link rel="stylesheet" href="/css/main.css">
+
+
+      <script src="/js/main.js"></script>
+
+
+</head>
+<body>
+  <header>
+    <h1>ほびサイト</h1>
+
+  <nav>
+    <ul>
+    <li>
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a href="/posts/">Posts</a>
+    </li>
+    <li>
+      <a href="/tags/">Tags</a>
+    </li>
+    </ul>
+  </nav>
+
+
+  </header>
+  <main>
+    
+  <h1>サーバー情報</h1>
+  <p>PORUBU.com、hobymour.netドメインで提供されている一部のサービスは埼玉の自宅内のサーバーで稼働しています。
+主に自作マシンで本体を動かしており、基本は自分専用ですが、一部のサービスは公開しています。
+セルフホストAIに関してはさすがに用意できないので自分のPCでやってください&hellip;</p>
+<p><a href="../about/hardware">管理者が所有しているハードウェアはこちら</a></p>
+<h1 id="物理ホスト一覧">物理ホスト一覧</h1>
+<p>公開サービスの<strong>一部</strong>をこのサーバーで運用しています。</p>
+<h2 id="メイン">メイン</h2>
+<table>
+  <thead>
+      <tr>
+          <th>パーツ名　　　</th>
+          <th>1号　　　　　　　　　　　　　　　　　　　　　　　　　　　</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>CPU　　　　　　</td>
+          <td>AMD Ryzen 3 4300G　　　　　　　　　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>RAM　　　　　　</td>
+          <td>16GB DDR4-3200 (8GB x 2)　　　　　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>PVE SSD　　　　</td>
+          <td>256GB NVMe SSD x 1 (PVE用)　　　　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>VM SSD　　　　</td>
+          <td>512GB Serial ATA SSD x 2 (RAID1)　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>Data HDD　　　</td>
+          <td>1TB HGST 7,200-rpm Serial ATA HDD x 2 (RAID1)　　　　　　</td>
+      </tr>
+      <tr>
+          <td>OS　　　　　　</td>
+          <td>Proxmox Virtual Environment 詳細は下を参照　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>GPU (PCIe x16)</td>
+          <td>NVIDIA NVS 315 (1GB)　　　　　　　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>NIC (PCIe x1)　</td>
+          <td>2.5Gbps x 1　　　　　　　　　　　　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>備考　　　　　</td>
+          <td>月〜木は午後19時から午前12時の間のみ、金〜日は24時間稼働</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="外部vps">外部VPS</h2>
+<h2 id="外部サーバー">外部サーバー</h2>
+<ul>
+<li>メール配信:</li>
+<li>Botプロテクション: Cloudflare Turnslite + Anubis</li>
+</ul>
+<h2 id="その他">その他</h2>
+<p>これらはあまり重要性がなかったりするものです。最悪なくてもいいかも&hellip;。</p>
+<table>
+  <thead>
+      <tr>
+          <th>名前　　　　　　　</th>
+          <th>用途　　　　</th>
+          <th>OS</th>
+          <th>スペック　　　　　　　　　　　　　　　　　　　　　　　　　　　</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Mac mini Late 2005</td>
+          <td>Webサーバー</td>
+          <td>Mac OS X v10.4</td>
+          <td>PowerPC G4 1.42GHz<!-- raw HTML omitted -->512MB DDR SDRAM <!-- raw HTML omitted -->64GB SATA SSD -&gt; IDE</td>
+      </tr>
+  </tbody>
+</table>
+<h1 id="仮想ホスト一覧">仮想ホスト一覧</h1>
+<p>稼働サービスの殆どは、基本は自分用か身内用（※は完全に自分専用）。太字は一般公開サービスです。</p>
+<table>
+  <thead>
+      <tr>
+          <th>用途　　　　　　　　</th>
+          <th>URL　　</th>
+          <th>スペック　　　　　　　　　</th>
+          <th>備考　　　　　　　　　　　　　　　　　</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>SMB/NFS/AFP/FTP LXC</td>
+          <td>-　　　</td>
+          <td>2vCPU/4GB RAM　　　　　　　</td>
+          <td>各種ファイル共有に使用　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td><strong>NextCloud LXC</strong>　</td>
+          <td>非公開</td>
+          <td>2vCPU/8GB RAM/120GB SSD　　</td>
+          <td>オンラインストレージ　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td><strong>Matrix</strong>　　　　　</td>
+          <td>非公開</td>
+          <td>2vCPU/8GB RAM/64GB SSD　　</td>
+          <td>身内用、登録はできません　　　　　　　</td>
+      </tr>
+      <tr>
+          <td><strong>ArchiveBox LXC</strong>　</td>
+          <td>非公開</td>
+          <td>2vCPU/16GB RAM/128GB SSD　</td>
+          <td>魚拓　　　　　　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>Docker + Immich VM　</td>
+          <td>非公開</td>
+          <td>4vCPU、16GB RAM、128GB SSD</td>
+          <td>画像管理<!-- raw HTML omitted -->GPU割当<!-- raw HTML omitted -->登録は身内のみ</td>
+      </tr>
+      <tr>
+          <td>Minecraft LXC　　　</td>
+          <td>非公開</td>
+          <td>-　　　　　　　　　　　　　</td>
+          <td>ゲームサーバー　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>FreshRSS LXC　　　　</td>
+          <td>非公開</td>
+          <td>-　　　　　　　　　　　　　</td>
+          <td>RSS取得　　　　　　　　　　　　　　　</td>
+      </tr>
+      <tr>
+          <td>Nginx LXC　　　　　</td>
+          <td>　　　</td>
+          <td>　　　　　　　　　　　　　</td>
+          <td>　　　　　　　　　　　　　　　　　　　</td>
+      </tr>
+  </tbody>
+</table>
+<h1 id="導入予定">導入予定　　　　　　　　　　　</h1>
+<h2 id="物理ホスト">物理ホスト</h2>
+<ul>
+<li>小型PCクラスタ - N95/N97/N100搭載小型PCを3台程度。LXCを稼働させる予定。</li>
+<li>Synology DS223j - 8TB x 2</li>
+</ul>
+<h2 id="外部ホスト">外部ホスト</h2>
+<ul>
+<li>プロキシサーバ</li>
+<li>メディアプロキシ</li>
+</ul>
+<h2 id="vm">VM</h2>
+<ul>
+<li>Mastodon VM</li>
+<li>MariaDB VM</li>
+<li>Pi-hole LXC</li>
+<li>Speedtest-tracker</li>
+<li>Linking (ブックマーク)</li>
+<li>SearXNG (検索エンジン)</li>
+<li>Matomo (アクセス解析)</li>
+<li>Wallabag (ブックマーク)</li>
+<li>Vikunja (タスク管理)</li>
+<li>Komga、Paperless-ngx (<strong>自分用</strong> PDFリーダー)</li>
+<li>Jellyfin (<strong>自分用</strong> メディア管理FE)</li>
+<li>身内用代替えFE（Redmine、Invidious）</li>
+<li>Proxmox Backup Server</li>
+<li>Dawarich (位置情報)</li>
+<li>Minecraft LXC (ゲームサーバー)</li>
+<li>Apache LXC</li>
+<li>Joplin LXC（ノート)</li>
+<li>Etesync (カレンダー・タスク・連絡先)</li>
+<li>Privatebin LXC (オンラインデータ貼り付けサービス)</li>
+<li>Jitsi-Meet (身内用オンラインビデオ会議)</li>
+<li>Rocket.chat (身内用チャットサービス、Discordの代替)</li>
+<li>Wiki.js + drawio LXC (内部用ウィキ)</li>
+<li>MediaWiki LXC (公開用ウィキ、編集できます)</li>
+<li>Forgejo LXC (Gitサーバ)</li>
+<li>PeerTube VM</li>
+<li>Mastodon VM</li>
+<li>Vaultwarden VM</li>
+<li>プライマリDNS</li>
+<li>セカンダリDNS</li>
+<li>InfluxDB + Grafana、Prometheus、Zabbix (サーバー監視)</li>
+<li>Roundcube (メールフロントエンド)</li>
+<li>Uptime Kuma (サーバー死活監視)</li>
+<li>デスクトップ（Linux系、Windows系、ほか）</li>
+<li>プリンタサーバ</li>
+<li>Tailscale VM</li>
+<li>OpenVPN LXC</li>
+<li>TimeTagger (タイムトラッキング)</li>
+</ul>
+<h1 id="使用サービス">使用サービス</h1>
+<ul>
+<li><a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox Virtual Environment 仮想化プラットフォーム</a></li>
+<li><a href="https://www.freebsd.org/">FreeBSD - Unix系OS</a></li>
+<li><a href="https://nginx.org/">nginx - Webサーバー</a></li>
+<li><a href="https://www.kagoya.jp/vps/function-plan/">KAGOYA CLOUD VPS</a></li>
+</ul>
+<h2 id="過去のサーバー">過去のサーバー</h2>
+<table>
+  <thead>
+      <tr>
+          <th>　　　</th>
+          <th></th>
+          <th>CPU</th>
+          <th>GPU</th>
+          <th>RAM　　　　　　　　　　　　</th>
+          <th>ストレージ　　　　　　　　　　　</th>
+          <th>OS</th>
+          <th>備考　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>2代目</td>
+          <td>2025-2025</td>
+          <td>Intel Xeon E3-1230v6</td>
+          <td>NVIDIA NVS 315</td>
+          <td>8GB DDR4 ECC (4GB x 2)　　　</td>
+          <td>500GB SATA SSD、1TB SATA HDD x 2</td>
+          <td>Ubuntu Server 24.04 LTS</td>
+          <td>Panasonic Medicomという、本来医療向けのワークステーションらしいやつです。ファンの音がうるさく、部品が中古でも高いため、こいつの公開サーバー化は断念。捨てました。</td>
+      </tr>
+      <tr>
+          <td>1代目</td>
+          <td>2022-2025</td>
+          <td>Intel Core i5-4570S</td>
+          <td>Intel HD Graphics 4000</td>
+          <td>16GB DDR3 (8GB x 1、4GB x 2</td>
+          <td>500GB SATA SSD　　　　　　　　　</td>
+          <td>Ubuntu Server 22.04 LTS</td>
+          <td>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
+      </tr>
+  </tbody>
+</table>
+
+  
+
+  </main>
+  <footer>
+    <p>Copyright 2026. All rights reserved.</p>
+
+  </footer>
+</body>
+</html>

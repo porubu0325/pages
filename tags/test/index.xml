@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on ほびサイト</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on ほびサイト</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 10 Feb 2026 13:33:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりのブログ＆サイト公開に手こずりました</title>
+      <link>http://localhost:1313/blog/2026/02/10-blog-iten/</link>
+      <pubDate>Tue, 10 Feb 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/02/10-blog-iten/</guid>
+      <description>&lt;p&gt;お久しぶりのブログです。&#xA;今日から自分のサイトをCodeberg Pagesで公開することにしましたが、それにあたっていろいろドメイン周りで手こずりました。。&#xA;CloudflareのDNSではALIASが使えないのでCNAMEだけでやろうとしたらうまくいかず、reponame.username.codeberg.page形式でやっても表示されずでいろいろ試行錯誤しましたが、最終的に&lt;a href=&#34;https://docs.codeberg.org/codeberg-pages/using-custom-domain/&#34;&gt;公式ドキュメント&lt;/a&gt;通りにやったらなんとかうまく表示されてくれました。&lt;/p&gt;&#xA;&lt;p&gt;これで再び自分のサイトを独自ドメインで公開できます。ただしブログはまだ。&#xA;今度はブログを独自ドメインにするのにいろいろ手こずっています。いずれはこっちも独自ドメインにしたい。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

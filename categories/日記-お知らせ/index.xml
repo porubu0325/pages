@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日記 お知らせ on ほびサイト</title>
+    <link>http://localhost:1313/categories/%E6%97%A5%E8%A8%98-%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+    <description>Recent content in 日記 お知らせ on ほびサイト</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 13 Jan 2026 00:26:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%97%A5%E8%A8%98-%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Framework Laptopがほしい</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-19-framework/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-19-framework/</guid>
+      <description>&lt;p&gt;半年ぐらい前に&lt;a href=&#34;https://thewheatricks0325.hatenablog.com/entry/2025/08/13/230110&#34;&gt;こんな記事&lt;/a&gt;を書きました。&#xA;&amp;hellip;このタイトルなのですが、最近半導体の値上がりがすごく~~（ビッグテック解せぬ）~~、今年中どころか来年にも買えなさそうなため、プロジェクトが存続していれば2030年ぐらいに買うことを考えています。では、現在の価格を元に、色々考えてみることにします&amp;hellip;&lt;/p&gt;&#xA;&lt;h1 id=&#34;価格見積り-16インチvs16インチ&#34;&gt;価格見積り: 16インチvs16インチ&lt;/h1&gt;&#xA;&lt;p&gt;MacBook Pro 16 vs Framework Laptop 16 最高性能は如何なものか？&lt;/p&gt;&#xA;&lt;h2 id=&#34;macbook-pro&#34;&gt;MacBook Pro&lt;/h2&gt;&#xA;&lt;p&gt;最高性能の場合、以下のような価格。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;16コアCPU、40コアGPU、16コアNeural Engine搭載Apple M4 Maxチップ&lt;/li&gt;&#xA;&lt;li&gt;16インチLiquid Retina XDR Nano-textureディスプレイ&lt;/li&gt;&#xA;&lt;li&gt;128GBユニファイドメモリ&lt;/li&gt;&#xA;&lt;li&gt;8TB SSD&lt;/li&gt;&#xA;&lt;li&gt;140W USB-C電源アダプタ&#xA;これでなんと&lt;strong&gt;1,166,800円&lt;/strong&gt;。Final Cut Pro、Logic Proオプションもつけると、&lt;strong&gt;1,216,800円&lt;/strong&gt;。高ぇ〜〜〜。しかも最新のOSがクソ（直球）なので、購入対象になりません。Appleだし仕方ないね。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;framework-laptop-16&#34;&gt;Framework Laptop 16&lt;/h2&gt;&#xA;&lt;p&gt;一方、Framework Laptopの場合&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AMD Ryzen AI 9 HX 370 (12コア24スレッド)&lt;/li&gt;&#xA;&lt;li&gt;内蔵GPU + 外付けNVIDIA GeForce RTX 5070 (8GB GDDR7)&lt;/li&gt;&#xA;&lt;li&gt;96GB DDR5-5600 (48GB x 2)&lt;/li&gt;&#xA;&lt;li&gt;8TB WD BLACK SN850X NVMe M.2 2280 SSD&lt;/li&gt;&#xA;&lt;li&gt;2TB WD BLACK SN770M NVMe M.2 2230 SSD&lt;/li&gt;&#xA;&lt;li&gt;OSなし（Windowsなんかいらん！！！！！！！！）&lt;/li&gt;&#xA;&lt;li&gt;黒ベゼル&lt;/li&gt;&#xA;&lt;li&gt;黒モジュール&lt;/li&gt;&#xA;&lt;li&gt;USB-C拡張カード x 6&lt;/li&gt;&#xA;&lt;li&gt;英語キーボード&#xA;これだけで、5022ドル、日本円で&lt;strong&gt;791,121円&lt;/strong&gt;です。以下のオプションをつけても、電源アダプタとか、Windows 11&lt;del&gt;とかいうどんな新品のパソコンでも産廃にすることができるクソOS&lt;/del&gt;をつけても、8,480ドル、日本円で、&lt;strong&gt;1,335,864円&lt;/strong&gt;です。Macを超えてしまいましたが、Mac&lt;strong&gt;単体&lt;/strong&gt;と違い、こちらはパーツを他のFrameworkやPCとかにも流用できるので、こちらのほうがお得です。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;技適とか色々&#34;&gt;技適とか色々&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://note.com/pooh01/n/n5636ebfed9df&#34;&gt;https://note.com/pooh01/n/n5636ebfed9df&lt;/a&gt;&#xA;noteの記事（※個人的にnoteは嫌いです）なのですが、どうやらモジュールに技適はついているようです。あと、&lt;del&gt;斗乱腐&lt;/del&gt; トランプの関税のせいでアメリカからの輸入がすごいことになりそうなので、アメリカ以外、例えばカナダや欧州からの個人輸入を行うか、もしくは日本で展開されるのを待つか&amp;hellip;のどちらかになりそうです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新しいサイトも構築中</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-13-newsite-construction/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-13-newsite-construction/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.porubu.com&#34;&gt;新しいサイト&lt;/a&gt;も、現在新しく作り直しています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新ブログの更新を開始しました</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-12-site-moved/</link>
+      <pubDate>Mon, 12 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-12-site-moved/</guid>
+      <description>&lt;p&gt;これまでWordPressだったりはてなブログだったりでブログを更新していましたが、この度Jekyllに引っ越しました。&lt;/p&gt;&#xA;&lt;p&gt;MarkdownはJoplinで慣れているので、特に問題はないと思います。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、新しいブログでもよろしくおねがいします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>テストだお</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-11-test/</link>
+      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-11-test/</guid>
+      <description>&lt;p&gt;文句ある？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日記用ブログを引っ越します</title>
+      <link>http://localhost:1313/blog/2025/2025-02-02-bitwarden/</link>
+      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-02-02-bitwarden/</guid>
+      <description>&lt;p&gt;7日から1週間と言われていたが、なんとか昨日には届いていたようだ。&#xA;しかし不在だったので明日届けるように連絡しておいた。&lt;/p&gt;&#xA;&lt;p&gt;Bitwardenのインスタンスが長らく更新されていない。エラーが起きていたのはこのせいか。&#xA;とにかく、VPSの支払いが終わったら、Bitwardenを更新する。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日記用ブログを引っ越します</title>
+      <link>http://localhost:1313/blog/2025/2025-03-29-newblog/</link>
+      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-03-29-newblog/</guid>
+      <description>&lt;p&gt;日記用のブログを引っ越すことにしました。&#xA;これからは個人的なことはこっちに書きます。よろしくね。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

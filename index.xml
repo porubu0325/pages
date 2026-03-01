@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ようこそ on ほびサイト</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in ようこそ on ほびサイト</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 25 Feb 2026 22:06:48 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ハードウェア一覧</title>
+      <link>http://localhost:1313/about/hardware/</link>
+      <pubDate>Wed, 25 Feb 2026 22:06:48 +0900</pubDate>
+      <guid>http://localhost:1313/about/hardware/</guid>
+      <description>&lt;h1 id=&#34;使用しているハードウェア一覧&#34;&gt;使用しているハードウェア一覧&lt;/h1&gt;&#xA;&lt;h2 id=&#34;メイン自作&#34;&gt;メイン（自作）&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;項目　　&lt;/th&gt;&#xA;          &lt;th&gt;内容　　　　　　　　　　　　　　　&lt;/th&gt;&#xA;          &lt;th&gt;備考　　　　　　　　&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;OS　　　&lt;/td&gt;&#xA;          &lt;td&gt;Linux mint 22.1　　　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CPU　　　&lt;/td&gt;&#xA;          &lt;td&gt;AMD Ryzen 5 5600　　　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;6コア12スレッド　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GPU　　　&lt;/td&gt;&#xA;          &lt;td&gt;NVIDIA GeForce GTX 1630 4GB GDDR6&lt;/td&gt;&#xA;          &lt;td&gt;PCI Express 3.0 x16&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RAM　　　&lt;/td&gt;&#xA;          &lt;td&gt;32GB DDR4-3200　　　　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;16GB DIMM x 2　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;NVMe SSD&lt;/td&gt;&#xA;          &lt;td&gt;1TB Crucial　　　　　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;SATA HDD&lt;/td&gt;&#xA;          &lt;td&gt;2TB TOSHIBA　　　　　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;SATA HDD&lt;/td&gt;&#xA;          &lt;td&gt;4TB WD Blue 5,400-rpm　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;その他　&lt;/td&gt;&#xA;          &lt;td&gt;DVDスーパーマルチドライブ　　　　&lt;/td&gt;&#xA;          &lt;td&gt;　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;用途としては開発、ローカルLLM、仮想マシン同時起動、ゲームとかを予定しています。&#xA;3月に水冷ファンを買ってマザーとCPUを乗っかえるつもりです。実質もう1台の自作ですね。&lt;/p&gt;&#xA;&lt;h2 id=&#34;macbook-pro-2021&#34;&gt;MacBook Pro (2021)&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;項目　　　&lt;/th&gt;&#xA;          &lt;th&gt;内容　　　　　　　　&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;OS　　　　&lt;/td&gt;&#xA;          &lt;td&gt;macOS 15 Sequoia　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;SoC　　　　&lt;/td&gt;&#xA;          &lt;td&gt;Apple M1 Pro　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CPU　　　　&lt;/td&gt;&#xA;          &lt;td&gt;8コア　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GPU　　　　&lt;/td&gt;&#xA;          &lt;td&gt;14コア　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;NPU　　　　&lt;/td&gt;&#xA;          &lt;td&gt;Neural Engine 16コア&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;SSD　　　　&lt;/td&gt;&#xA;          &lt;td&gt;512GB　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;キーボード&lt;/td&gt;&#xA;          &lt;td&gt;JIS　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;2023年1月に整備済製品を購入し、現在のメイン。プログラミング、DaVinci Resolveを使った動画編集、ネットサーフィン、Minecraftなど色々こなします。WindowsではなくMacであるのと今までのx86ではなくARMベースのApple Siliconなので一部のWindowsでソフトや周辺機器（Wacom CTE-450、YMM4など）は使えませんが、あまり不自由は感じません。絵はiPadでも描けるしね（といってもろくにかけてないけど）&lt;!-- raw HTML omitted --&gt;現在、YMM4から乗り換えるためにDavinci Resolveを練習中です（何も動画を作ってないけど）。&lt;del&gt;いずれはFinal Cut Proが欲しいと思ってるため、キーボードでの操作方法はFCPと同じにしています。しかし一度DaVinci Resolveは挫折、FCPも体験版入れたけどろくに使ってない・・・&lt;/del&gt; FCPではなくDavinci Resolveで生きていくことにしました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ブログ移転のテストです</title>
+      <link>http://localhost:1313/blog/2026/02/25-blog-iten-test/</link>
+      <pubDate>Wed, 25 Feb 2026 09:22:46 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/02/25-blog-iten-test/</guid>
+      <description>&lt;p&gt;ブログ 2日目。&#xA;またブログを移転しようと思ってます（といってもこの記事を書いている時点で公開すらしていませんが日記ということで、、、）&#xA;とりあえずあれほど嫌っていたHugoにしています。もうHTMLを1から書くのは面倒だし、、、&#xA;ただテーマは自作しようと思っています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Profile</title>
+      <link>http://localhost:1313/about/profile/</link>
+      <pubDate>Tue, 24 Feb 2026 22:27:15 +0900</pubDate>
+      <guid>http://localhost:1313/about/profile/</guid>
+      <description>&lt;h1 id=&#34;プロフィール&#34;&gt;プロフィール&lt;/h1&gt;&#xA;&lt;p&gt;このサイトを運営している人です。他のサイトなどでは書ききれないプロフィールを載せておきます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;基本情報&#34;&gt;基本情報&lt;/h2&gt;&#xA;&lt;p&gt;[アバター画像]&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;項目　　　　　　　&lt;/th&gt;&#xA;          &lt;th&gt;概要　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;名前　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;（非公開）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;スクリーンネーム　&lt;/td&gt;&#xA;          &lt;td&gt;ほび（hobi）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;旧スクリーンネーム&lt;/td&gt;&#xA;          &lt;td&gt;PORUBU (2019年11月〜2025年10月)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;生年月日　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;2005年3月25日　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;年齢　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;20歳　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;新潮　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;165cm(2025.11時点)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;体重　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;69kg (2025.11時点)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;血液型　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;B型　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;出身地　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;北海道　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;生息地　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;埼玉県　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;心の故郷　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;秋葉原（東京都千代田区外神田）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;所属サークル　　　&lt;/td&gt;&#xA;          &lt;td&gt;なし　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;連絡先　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;main[at]porubu.com　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;ウェブサイト　　　&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.porubu.com/&#34;&gt;https://www.porubu.com/&lt;/a&gt;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;職業　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;浪人中、自称プログラマ兼クリエイター　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;PC歴　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;16年〜17年(幼少期からPCを触っています)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;趣味　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;散歩、アニメ視聴、ネットサーフィン、PC、アニメ、ゲーム、ミーム、音楽　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;使用しているソフト&lt;/td&gt;&#xA;          &lt;td&gt;VSCodium（プログラミング）、DaVinci Resolve（動画制作）、ibisPaint X（お絵描き）、GarageBand（音楽制作）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;理解可能言語　　　&lt;/td&gt;&#xA;          &lt;td&gt;日本語（ネイティブ）、英語・中国語・韓国語（勉強中）　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;使用言語　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;HTML、CSS、JavaScript、Python（あまり&amp;hellip;）、C言語（Hello World)　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;苦手言語　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;????　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;目標　　　　　　　&lt;/td&gt;&#xA;          &lt;td&gt;国立大学に入る　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;使用しているソフト&#34;&gt;使用しているソフト&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;項目　　　　　&lt;/th&gt;&#xA;          &lt;th&gt;概要　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;プログラミング&lt;/td&gt;&#xA;          &lt;td&gt;VSCodium　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;動画制作　　　&lt;/td&gt;&#xA;          &lt;td&gt;DaVinci Resolve（Linux）、iMovie（macOS）、AviUtl、YMM4（Windows）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;イラスト制作　&lt;/td&gt;&#xA;          &lt;td&gt;アナログ、ibisPaint X (タブレット)　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;音楽制作　　　&lt;/td&gt;&#xA;          &lt;td&gt;GarageBand　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;詳しい情報&#34;&gt;詳しい情報&lt;/h2&gt;&#xA;&lt;p&gt;幼い頃からコンピュータばかり触っており、2011年ぐらいの頃からネットにいて、ビットワールド（NHKで放送されている番組）のHPの棒人間のコーナー「ぼうけん！」でコンテンツを制作するということに初めて触れました。本格的に利用し始めたのは2014年にニンテンドー3DS経由でニコニコ動画を見始めた頃で、当時はYouTubeより圧倒的にニコニコ派で、「陰陽師」や「涼宮ハルヒの憂鬱」もここで知りました。&#xA;機械とかミームとかアニメとかNLとか百合とかを触ってます。何もせず家でずっとネットサーフィンしてたらいつの間にか高校終わってました。プログラミングあまりできないし、絵も上手くないのですが自分なりに頑張りたいと思っています。現在は、国立大学に受かることを目標にしています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>テスト投稿</title>
+      <link>http://localhost:1313/blog/2026/02/2026-02-24-test/</link>
+      <pubDate>Tue, 24 Feb 2026 22:12:22 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/02/2026-02-24-test/</guid>
+      <description>&lt;p&gt;記事のテスト作成です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>久しぶりのブログ＆サイト公開に手こずりました</title>
+      <link>http://localhost:1313/blog/2026/02/10-blog-iten/</link>
+      <pubDate>Tue, 10 Feb 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/02/10-blog-iten/</guid>
+      <description>&lt;p&gt;お久しぶりのブログです。&#xA;今日から自分のサイトをCodeberg Pagesで公開することにしましたが、それにあたっていろいろドメイン周りで手こずりました。。&#xA;CloudflareのDNSではALIASが使えないのでCNAMEだけでやろうとしたらうまくいかず、reponame.username.codeberg.page形式でやっても表示されずでいろいろ試行錯誤しましたが、最終的に&lt;a href=&#34;https://docs.codeberg.org/codeberg-pages/using-custom-domain/&#34;&gt;公式ドキュメント&lt;/a&gt;通りにやったらなんとかうまく表示されてくれました。&lt;/p&gt;&#xA;&lt;p&gt;これで再び自分のサイトを独自ドメインで公開できます。ただしブログはまだ。&#xA;今度はブログを独自ドメインにするのにいろいろ手こずっています。いずれはこっちも独自ドメインにしたい。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>今月もありがとうございました</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-31-arigatou/</link>
+      <pubDate>Sat, 31 Jan 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-31-arigatou/</guid>
+      <description>&lt;p&gt;なんか5日ぐらいサボっていましたが、ただ単にネタがなかっただけです。&lt;/p&gt;&#xA;&lt;p&gt;今月はほぼ所持金が尽きているのでしばらく何も買えません、、、、、&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>元気です</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-24-genki-desu/</link>
+      <pubDate>Sat, 24 Jan 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-24-genki-desu/</guid>
+      <description>&lt;p&gt;なんとか元気にやってます。&lt;/p&gt;&#xA;&lt;p&gt;昨日は久しぶりに回転寿司へ行きました。いつもの家から近い方ではなく、ハードオフの隣の方のやつです（わかんねえよ&lt;/p&gt;&#xA;&lt;p&gt;それ以外は一日中ぐったりだったのでなんもやってませんでした。少なくともProxmoxはいじりました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>元気です</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-26-samui/</link>
+      <pubDate>Sat, 24 Jan 2026 13:33:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-26-samui/</guid>
+      <description>&lt;p&gt;寒いですね。&lt;/p&gt;&#xA;&lt;p&gt;昨日はいろいろ見に大宮まで行きましたが、結局何も買ってませんし何も食べてません。&lt;/p&gt;&#xA;&lt;p&gt;でもココ壱とかは行ってみたいかな。&lt;/p&gt;&#xA;&lt;p&gt;スマホとかありましたけどそれは来月の給料が出たら、買うことにします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>朝からすごくだるかったです＆回転寿司</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-23-kaiten-zushi/</link>
+      <pubDate>Fri, 23 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-23-kaiten-zushi/</guid>
+      <description>&lt;p&gt;今日は朝何も食べていない上にそんなに寝れていないため、晩御飯を食べるまでぐったりしていました。&lt;/p&gt;&#xA;&lt;p&gt;そのため、朝に書こうと思っているブログを21時に書いています。&lt;/p&gt;&#xA;&lt;p&gt;そうそう、回転寿司行きました。うまかったです（語彙力）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>早起きしたのかすごくねむい</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-22-nemui/</link>
+      <pubDate>Thu, 22 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-22-nemui/</guid>
+      <description>&lt;p&gt;今日はいつもより1時間はやく起きたのですが・・・すごく眠くていつもよりぐったりしています。&lt;/p&gt;&#xA;&lt;p&gt;23時頃に寝ようとしていたのですが、はProxmoxでDNS設定と格闘していて布団に入れなかったので、結局寝たのは24時ごろになってしまいました。&lt;/p&gt;&#xA;&lt;p&gt;これがかなり曲者で、、、今回はUbuntu ServerではなくRocky Linuxを使用しましたが、firewalldは今回が使うのが初めてでいろいろ苦戦していました。&lt;/p&gt;&#xA;&lt;p&gt;その上ネットワーク設定がうまくいかず、エラーが出て検索してもなかなかヒットせず、、、いろいろあったわけです。&lt;/p&gt;&#xA;&lt;p&gt;今週末はネットワーク設定にまるまる漬けるか・・・&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Framework Laptopがほしい</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-19-framework/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-19-framework/</guid>
+      <description>&lt;p&gt;半年ぐらい前に&lt;a href=&#34;https://thewheatricks0325.hatenablog.com/entry/2025/08/13/230110&#34;&gt;こんな記事&lt;/a&gt;を書きました。&#xA;&amp;hellip;このタイトルなのですが、最近半導体の値上がりがすごく~~（ビッグテック解せぬ）~~、今年中どころか来年にも買えなさそうなため、プロジェクトが存続していれば2030年ぐらいに買うことを考えています。では、現在の価格を元に、色々考えてみることにします&amp;hellip;&lt;/p&gt;&#xA;&lt;h1 id=&#34;価格見積り-16インチvs16インチ&#34;&gt;価格見積り: 16インチvs16インチ&lt;/h1&gt;&#xA;&lt;p&gt;MacBook Pro 16 vs Framework Laptop 16 最高性能は如何なものか？&lt;/p&gt;&#xA;&lt;h2 id=&#34;macbook-pro&#34;&gt;MacBook Pro&lt;/h2&gt;&#xA;&lt;p&gt;最高性能の場合、以下のような価格。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;16コアCPU、40コアGPU、16コアNeural Engine搭載Apple M4 Maxチップ&lt;/li&gt;&#xA;&lt;li&gt;16インチLiquid Retina XDR Nano-textureディスプレイ&lt;/li&gt;&#xA;&lt;li&gt;128GBユニファイドメモリ&lt;/li&gt;&#xA;&lt;li&gt;8TB SSD&lt;/li&gt;&#xA;&lt;li&gt;140W USB-C電源アダプタ&#xA;これでなんと&lt;strong&gt;1,166,800円&lt;/strong&gt;。Final Cut Pro、Logic Proオプションもつけると、&lt;strong&gt;1,216,800円&lt;/strong&gt;。高ぇ〜〜〜。しかも最新のOSがクソ（直球）なので、購入対象になりません。Appleだし仕方ないね。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;framework-laptop-16&#34;&gt;Framework Laptop 16&lt;/h2&gt;&#xA;&lt;p&gt;一方、Framework Laptopの場合&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AMD Ryzen AI 9 HX 370 (12コア24スレッド)&lt;/li&gt;&#xA;&lt;li&gt;内蔵GPU + 外付けNVIDIA GeForce RTX 5070 (8GB GDDR7)&lt;/li&gt;&#xA;&lt;li&gt;96GB DDR5-5600 (48GB x 2)&lt;/li&gt;&#xA;&lt;li&gt;8TB WD BLACK SN850X NVMe M.2 2280 SSD&lt;/li&gt;&#xA;&lt;li&gt;2TB WD BLACK SN770M NVMe M.2 2230 SSD&lt;/li&gt;&#xA;&lt;li&gt;OSなし（Windowsなんかいらん！！！！！！！！）&lt;/li&gt;&#xA;&lt;li&gt;黒ベゼル&lt;/li&gt;&#xA;&lt;li&gt;黒モジュール&lt;/li&gt;&#xA;&lt;li&gt;USB-C拡張カード x 6&lt;/li&gt;&#xA;&lt;li&gt;英語キーボード&#xA;これだけで、5022ドル、日本円で&lt;strong&gt;791,121円&lt;/strong&gt;です。以下のオプションをつけても、電源アダプタとか、Windows 11&lt;del&gt;とかいうどんな新品のパソコンでも産廃にすることができるクソOS&lt;/del&gt;をつけても、8,480ドル、日本円で、&lt;strong&gt;1,335,864円&lt;/strong&gt;です。Macを超えてしまいましたが、Mac&lt;strong&gt;単体&lt;/strong&gt;と違い、こちらはパーツを他のFrameworkやPCとかにも流用できるので、こちらのほうがお得です。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;技適とか色々&#34;&gt;技適とか色々&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://note.com/pooh01/n/n5636ebfed9df&#34;&gt;https://note.com/pooh01/n/n5636ebfed9df&lt;/a&gt;&#xA;noteの記事（※個人的にnoteは嫌いです）なのですが、どうやらモジュールに技適はついているようです。あと、&lt;del&gt;斗乱腐&lt;/del&gt; トランプの関税のせいでアメリカからの輸入がすごいことになりそうなので、アメリカ以外、例えばカナダや欧州からの個人輸入を行うか、もしくは日本で展開されるのを待つか&amp;hellip;のどちらかになりそうです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xのアカウントを全て削除しました</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-21-elon-sucks/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-21-elon-sucks/</guid>
+      <description>&lt;p&gt;今年１月ごろに全て削除するようにして、その数日後結局復活させたXのアカウントですが、この度全て削除することにしました。&lt;/p&gt;&#xA;&lt;p&gt;もともとbotを動か&lt;del&gt;してゴミを捨てる&lt;/del&gt;す用に10個ぐらいのアカウントを作って&lt;del&gt;イーロンの邪魔をしてやろうと思って&lt;/del&gt;（むしろこっちが本音）いたのですが、X運営の実権を握っているがイーロン・マスクという1人の億万長者であり、そのうえ独自の議論を生むような生成AIを運営している以上、サーバーのリソースが自分1人では敵わないほど十分にある以上、イーロンのAI&lt;del&gt;という糞みたいな趣味が悪いもの&lt;/del&gt;にエサを与えてるような感じになっていると考えたからです。&lt;/p&gt;&#xA;&lt;p&gt;そもそもMisskeyやMastodonなど（Fediverse）からでもブリッジがあれば見れるし、Xの投稿を見るなら代替えフロントエンドがあるし、Xのアカウント自体作らなくても良いのかもしれません。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、Xのアカウントをこの度は削除させていただいた、という報告の記事です。あとついでにBlueskyのアカウントも消します。ゴミ捨て場はしばらくうちのMisskey（オブジェクトストレージがCloudflare R2）を使っておきます。あばよX！！！！！！！！！&lt;/p&gt;&#xA;&lt;p&gt;2026年1月31日追記&#xA;&lt;del&gt;XをやめてもNitterから見ることをやめられません。一応Nitterを使用してRSSを取得していますが、Nitterインスタンスも基本は外部である上に、いつまで持つか分からないので、結局アカウントを復活させました。&#xA;まあといっても、用途は自動ポストぐらいしかないのですが。&lt;/del&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新しいサイトも構築中</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-13-newsite-construction/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-13-newsite-construction/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.porubu.com&#34;&gt;新しいサイト&lt;/a&gt;も、現在新しく作り直しています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自前でWayback Machineを作ろう</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-20-webarchive/</link>
+      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-20-webarchive/</guid>
+      <description>&lt;p&gt;現在、自前でWayback Machineみたいなものを作ろうとするために、過去のブックマークをすべてアーカイブ化しています。&lt;/p&gt;&#xA;&lt;p&gt;構築は2月頃を考えています。その前にProxmoxをいろいろ構築しないといけないのですが&amp;hellip;DNSの設定で躓いています。&lt;/p&gt;&#xA;&lt;p&gt;いろいろいじってみても、まともに起動しない。&lt;/p&gt;&#xA;&lt;p&gt;どうやらProxmoxに直接入れられるらしく、その場合VMがいらないらしいのでやってみたのですが、今度はVMが起動しなくなりました。&lt;/p&gt;&#xA;&lt;p&gt;ネットワークって難しい、、、&lt;/p&gt;&#xA;&lt;p&gt;そうそう、ジャンクワールドに3800円でRTX1200（NVIDIAではなくYAMAHAね）が入荷していたので、それを買おうと思います。来月給料が出たら。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新ブログの更新を開始しました</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-12-site-moved/</link>
+      <pubDate>Mon, 12 Jan 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-12-site-moved/</guid>
+      <description>&lt;p&gt;これまでWordPressだったりはてなブログだったりでブログを更新していましたが、この度Jekyllに引っ越しました。&lt;/p&gt;&#xA;&lt;p&gt;MarkdownはJoplinで慣れているので、特に問題はないと思います。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、新しいブログでもよろしくおねがいします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中古で自作もありだな...と</title>
+      <link>http://localhost:1313/blog/2025/2025-11-28-%e4%b8%ad%e5%8f%a4%e3%81%a7%e8%87%aa%e4%bd%9c%e3%82%82%e3%81%82%e3%82%8a%e3%81%a0%e3%81%aa-%e3%81%a8/</link>
+      <pubDate>Thu, 27 Nov 2025 15:30:08 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-28-%e4%b8%ad%e5%8f%a4%e3%81%a7%e8%87%aa%e4%bd%9c%e3%82%82%e3%81%82%e3%82%8a%e3%81%a0%e3%81%aa-%e3%81%a8/</guid>
+      <description>&lt;p&gt;マザーボード 7000 グラフィック 10000 CPU - R5 5600 GPU - GTX 1630 RAM - 32GB RAM CPU - AMD Ryzen 7 5700X 中古20000 クーラー - 4300G付属品 無料 GPU - RAM - 48GB RAM 中古12000 SSD1 - WD Blue SN5100 7950 500GB 8000 SSD2 - Team 500GB M/B - B550 中古7000 光学 - 中古4000円程度 x 2 ルーター - YAMAHA RTX 1200 (¥3800+送) 47000 12月（60000） - 中古メモリ 10000~20000 - 電源 5000 - SSD 8000 1月（60000） - 中古CPU（20000） 2月（50000） - 中古マザー 7000 3月（50000） いろいろ考えましたが、中古で自作するというのもありかもしれない。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自作PC計画、無期限延期</title>
+      <link>http://localhost:1313/blog/2025/2025-11-27-zisakupc-enki/</link>
+      <pubDate>Wed, 26 Nov 2025 15:02:06 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-27-zisakupc-enki/</guid>
+      <description>&lt;p&gt;AIバブルとのせいで、AM5での自作PC計画を延期せざるを得なくなりました。 なので今ある自作PCを活用するつもりです。そこまでお金があるわけではないので&amp;hellip; あとブログをVPSに移動しようと思っていましたがやめました。あと、今あるPCや自宅サーバーを中古パーツで強化していこうと思います。  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>書くことが、、、ない</title>
+      <link>http://localhost:1313/blog/2025/2025-11-25--/</link>
+      <pubDate>Tue, 25 Nov 2025 14:53:12 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-25--/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>新しい椅子が届いた。</title>
+      <link>http://localhost:1313/blog/2025/2025-11-24-new-chair/</link>
+      <pubDate>Mon, 24 Nov 2025 14:57:08 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-24-new-chair/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/11/DSC00574-300x225.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/11/DSC00575-300x225.jpg&#34; alt=&#34;&#34;&gt; Amazonのセールで買った新しい椅子、AKRacingのWOLFです。ポイントも利用することで37,000円で買えました。 &lt;a href=&#34;https://thewheatricks0325.hatenablog.com/entry/2021/06/24/324/&#34;&gt;アイリスの前のオフィスチェアは2021年6月に同じくAmazonで6000円程度で買った&lt;/a&gt;のですが、約4年半使ってかなりボロボロになってしまいました。その前は確か勉強椅子でしたが、こちらは勉強机にいてきた椅子で、長く使っていると硬くて結構ボロ路になっていましたが、買ったのが2014年ぐらいなのでなにげにあの椅子は一番長く使っていたりします（てか使っていない期間もあるし） そんなこんなで今回は3台目の椅子です。ゲーミングチェアを買ったのはこれが初めてです。あと、家にある椅子では一番高い。&lt;/p&gt;&#xA;&lt;h2 id=&#34;組み立て&#34;&gt;組み立て&lt;/h2&gt;&#xA;&lt;p&gt;まず、２階まで持ち上げるのが大変でした。父親と２人がかりで上まで持ち上げました。 組み立ては２人でやることを推奨していましたが、1人でもできました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;いいとこ&#34;&gt;いいとこ&lt;/h2&gt;&#xA;&lt;p&gt;AKRacingという名前の通り、レーシングカーの座席っぽい感じです。ヘッドレストとランバーサポートがついて、良い姿勢を長く保つことができそうです。 180度リクライニング機能はかなり便利そうです。これでいざ休憩したい時に布団に行かず寝ることができます。 素材ですが、WOLFシリーズはファブリックです。上位モデルのNitro v2（PUレザー）と迷いましたが、&lt;a href=&#34;https://www.irisplaza.co.jp/index.php?KB=SHOSAI&amp;amp;SID=7160200&#34;&gt;前の椅子&lt;/a&gt;がレザー？であったこと、それもあってか4年半使ったらかなりボロボロになっていたこともあり、今回はPUレザーよりも耐久性はあるであろうファブリックにしました。ファブリックの欠点は汚れた時に目立つ点ですが、PUレザーの場合はさらに多く、通気性が悪い、劣化しやすいなどがあり、今回はファブリックのWOLFにしました（というかなんで上位モデルと下位モデルで耐久性が逆転しているの）&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;わるいとこ&#34;&gt;わるいとこ&lt;/h2&gt;&#xA;&lt;p&gt;欠点と言えば、胡座を座面でかけないことです。まあこれは姿勢が良くなるという点ではいいのかもしれませんが。&lt;/p&gt;&#xA;&lt;h2 id=&#34;総括&#34;&gt;総括&lt;/h2&gt;&#xA;&lt;p&gt;まだ届いて当日ですが、なかなか良い買い物をしました。勉強に集中できそうです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>椅子を買った＆ストリーミングサーバーを構築...しようとした</title>
+      <link>http://localhost:1313/blog/2025/2025-11-23-chair_and_streamingserver/</link>
+      <pubDate>Sun, 23 Nov 2025 13:12:55 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-23-chair_and_streamingserver/</guid>
+      <description>&lt;p&gt;Amazonのブラックフライデー直前セールで椅子を買いました。販売価格38,073円のところ、溜まっていたAmazonのポイントとdポイントとを組み合わせることで、36,947円で買えました。 &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/11/chuumon-300x169.png&#34; alt=&#34;&#34;&gt; あと、自分用24時間放送テレビのために、ストリーミングサーバーを構築しようとしてOwncastを入れたのですが、いろいろ難しそうなので、この計画は頓挫しました。しかし、ErsatzTVというものを使用すれば、Jellyfin内の動画ファイルなどを使用してテレビ局を構築できるらしい。 &lt;a href=&#34;https://ersatztv.org&#34;&gt;https://ersatztv.org&lt;/a&gt; 来週末はこれを使ってみるか。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>久しぶりに朝に</title>
+      <link>http://localhost:1313/blog/2025/2025-11-19-hisasiburi-asablog/</link>
+      <pubDate>Tue, 18 Nov 2025 23:31:54 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-19-hisasiburi-asablog/</guid>
+      <description>&lt;p&gt;これからは朝活として毎日ブログを書くことにします。その方が忘れないと思うので。 最近は架空放送局を考えることにハマっています。 いずれWikiをつくったら公開する予定。 &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/11/3e75552d8a369ea1259aad1a80c99a8e-300x132.png&#34; alt=&#34;&#34;&gt; しかしスパム多すぎませんかね&amp;hellip; そうそう、最近は外貨預金をやってます。毎月ある程度貯めてたらそこそこ溜まってきました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>先週はちょっと体調が悪かった</title>
+      <link>http://localhost:1313/blog/2025/2025-11-17-taicho/</link>
+      <pubDate>Mon, 17 Nov 2025 14:33:32 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-17-taicho/</guid>
+      <description>&lt;p&gt;先週末は少し体調悪くてぐったりしていました&amp;hellip; 今週は日記やブログをなるべく毎日書けたらいいな&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>今週末やること</title>
+      <link>http://localhost:1313/blog/2025/2025-11-14-konsyuumatuyarukoto/</link>
+      <pubDate>Thu, 13 Nov 2025 15:10:59 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-14-konsyuumatuyarukoto/</guid>
+      <description>&lt;p&gt;今週末は&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ブログのVPS移転&lt;/li&gt;&#xA;&lt;li&gt;バックアップスクリプト作成&lt;/li&gt;&#xA;&lt;li&gt;自宅鯖にSSD増設&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;をやります。 自宅鯖にはもう1台HDD（中古）があるので、そいつをバックアップ用に使います。ついでにISO保管庫としても。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>バックアップ計画</title>
+      <link>http://localhost:1313/blog/2025/2025-11-13-backupkeikaku/</link>
+      <pubDate>Wed, 12 Nov 2025 15:15:30 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-13-backupkeikaku/</guid>
+      <description>&lt;p&gt;今週末にデータベースとBitwardenのバックアップスクリプトの制作を考えています。どのような感じにするのかというと&amp;hellip; いろんなサービスが稼働しているVPS側が2時にバックアップスクリプトを稼働させ、自宅サーバーに転送し、最大7世代まで取っておく&amp;hellip;こんな感じです。7世代よりあとのものは削除。  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>このサイトもVPSに移行予定</title>
+      <link>http://localhost:1313/blog/2025/2025-11-12-blogwillmovevps/</link>
+      <pubDate>Tue, 11 Nov 2025 15:14:43 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-12-blogwillmovevps/</guid>
+      <description>&lt;p&gt;このブログも週末にはVPSへ移行させる予定です&amp;hellip;とってもnginx上でWordPress動かす方法分かりませんが！！！！！！ 現在自宅サーバー上で動かしており、またCloudflare Tunnelを経由しているため、自宅サーバーが止まってる平日の12時から18時の間は見れないのですが、これが、見れるようになれます。やったね。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugoか、WordPressか...</title>
+      <link>http://localhost:1313/blog/2025/2025-11-08-hugo-or-wordpress/</link>
+      <pubDate>Sat, 08 Nov 2025 14:25:59 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-08-hugo-or-wordpress/</guid>
+      <description>&lt;p&gt;毎日更新するならWordPressですが、Hugoも気になりつつあります。 しかしMBPでやってたときに何度も失敗していたからなあ〜〜〜〜〜〜〜〜〜〜〜〜〜 ということで今日は一日中VSCode&amp;hellip;ではなくVSCodiumを触っていました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>immichを入れた</title>
+      <link>http://localhost:1313/blog/2025/2025-11-05-immich-ireta/</link>
+      <pubDate>Wed, 05 Nov 2025 14:51:03 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-05-immich-ireta/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/11/8dc56d19586ca77be50737cb486e5229-147x300.png&#34; alt=&#34;&#34;&gt; immichやJellyfinを入れました。いろいろ画像をぶっ込みました。 容量がすごいのでいろいろやってます。特に自作動画は碌なものがないので外部に放出&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>お久しぶりのブログです</title>
+      <link>http://localhost:1313/blog/2025/2025-11-02-hisashiburi/</link>
+      <pubDate>Sun, 02 Nov 2025 13:59:37 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-02-hisashiburi/</guid>
+      <description>&lt;p&gt;なんか読み込みが遅くて（） あとHugoにしようと思ってるけどどうしようかな〜〜〜〜〜&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>書くことなし？</title>
+      <link>http://localhost:1313/blog/2025/2025-10-10-kakukotonashi/</link>
+      <pubDate>Thu, 09 Oct 2025 15:29:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-10-kakukotonashi/</guid>
+      <description>&lt;p&gt;今回は&amp;hellip;なんと残念ながら書くことがありません！！！！   ちなみに今のメインPCをサーバー化するか検討中です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DRAM価格が高騰している！！！！！！！！！</title>
+      <link>http://localhost:1313/blog/2025/2025-10-09-dram-koutou/</link>
+      <pubDate>Wed, 08 Oct 2025 22:51:25 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-09-dram-koutou/</guid>
+      <description>&lt;p&gt;なんでも、メモリ大手のサムスン・SKハイニックス・マイクロンがAI需要でHBMの生産を優先するようで、このせいでDDR4やDDR5の生産ラインが埋まってしまい、これからDRAMやNANDの値段が上がるそうです。 &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/10/cc97955eed9cb598a93bc898c5910c62-300x190.png&#34; alt=&#34;&#34;&gt; 数ヶ月前は16,000円で買えたのに。。。まだ高くなるの。。。。 これは大手3社より知名度が低く中華でないPanramにどうにかしてもらう必要がありますね。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xはやめるべきかもしれない</title>
+      <link>http://localhost:1313/blog/2025/2025-10-06-x-yameyou/</link>
+      <pubDate>Mon, 06 Oct 2025 13:41:50 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-06-x-yameyou/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/10/66e1f1ce91ebe287a93c4c30775d560c-300x189.png&#34; alt=&#34;&#34;&gt; 本気で思ってるのですが、Xはもういい加減、やめるべきだと思います。 予備校へ行っていた2024年の間から2025年半ばまでXをやっていませんでしたが、8月か9月ぐらいにXで画像botを動かすために戻ってきて、botのためだけにXを使おうとしていましたが、一度始まると情報が滝のように現れ、永遠とスクロールしてしまう&amp;hellip;という状況に陥ってしまいます。 その上プロファイリングだのアルゴリズムだの見た動画やいいねしたポストに類似した情報ばかり出てくる上に、たま〜〜〜〜にノイズも混じっているため、ひとたび始めると抜け出すのが難しいぐらいです。SNSの政治やAI、陰謀論界隈にいる人もこのように生まれて行ったのでしょう&amp;hellip; これはまずいと思い、いろいろと代替になるものを考え、順次移行することにしています。 ブログの更新情報はRSSで取得できるし、SNSはMisskeyで十分だし、Xの公式アカウントはブリッジで使えるし&amp;hellip; とにかくあの手この手で、今年中にXから抜け出せるようにいろいろ試そうと思っています。というわけで今日のブログでした。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPUを使う用途をセルフホストできる？</title>
+      <link>http://localhost:1313/blog/2025/2025-10-06-gpu-selfhost/</link>
+      <pubDate>Sun, 05 Oct 2025 15:45:43 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-06-gpu-selfhost/</guid>
+      <description>&lt;p&gt;現在、運用している、またはしようとしている中でGPUが使用できるものとして、以下のソフトがあります。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jellyfin&lt;/li&gt;&#xA;&lt;li&gt;immich&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;どちらも、エンコードや機械学習とかで使うやつです。 今自宅鯖に刺さっているGPUは&lt;strong&gt;NVIDIA GeForce GTX 1630&lt;/strong&gt; で、Turing世代の一番下のモデルですが、メモリは4GBあり、ある程度のことになら使えます。 &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/10/2c3804d1bf348bab77997a4189285cda-300x138.png&#34; alt=&#34;&#34;&gt; では、もしAIをセルフホストするとなると&amp;hellip;？ 私はあらゆることをセルフホストしたいと考えており、生成AIも例外ではありません。 ChatGPTやGrokなどといったAIは、サブスク料金が非常に高く（月1万もする）、自宅鯖の電気代を余裕で越します。ならAIもセルフホストしてしまおうというわけです。 しかしAIもセルフホストするとなると、多めのビデオメモリのGPUを使用しないといけません。しかも、それらは中古市場でも高い傾向があるため、今の私ではどうしようもできない&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>なんか異常に遅い＆新しいスマホ・タブレット</title>
+      <link>http://localhost:1313/blog/2025/2025-10-04-osoiandnnewhone/</link>
+      <pubDate>Sat, 04 Oct 2025 12:10:30 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-04-osoiandnnewhone/</guid>
+      <description>&lt;p&gt;このブログはCloudflare Tunnelからアクセスするようにしていますが、メインPCからだとやたらと遅い&amp;hellip;MBPからだと普通にアクセスできますが。 さて、新しいスマホとタブレットは中古で買うことにしていますが、現在は「カスタムROMができる」ことを条件に選んだ結果、以下のモデルを検討しています。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Google Pixel 6a&lt;/li&gt;&#xA;&lt;li&gt;Samsung Galaxy Tabシリーズ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;どちらも比較的新しく、GrapheneOSやLineageOSなどのような主要なカスタムROMが使えるため選びました。どちらも中古で買ってもそれなりにしますが&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;おまけ&#34;&gt;おまけ&lt;/h2&gt;&#xA;&lt;p&gt;2020年に描いた絵 &lt;img src=&#34;https://files.hobymour.net/hoby/dded765a-7e89-4176-8ce8-5b9038df4889.webp&#34; alt=&#34;уГЮуГкуВк.png.webp&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/blog/2025/2025-10-04-about/</link>
+      <pubDate>Sat, 04 Oct 2025 06:53:13 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-04-about/</guid>
+      <description>&lt;h2 id=&#34;ほびろぐとは&#34;&gt;ほびろぐとは？&lt;/h2&gt;&#xA;&lt;p&gt;このブログは、ほびの日記とか日々思ったこととかを適当に書いていくブログです。&lt;/p&gt;&#xA;&lt;h2 id=&#34;ギフトを送りたい&#34;&gt;ギフトを送りたい&lt;/h2&gt;&#xA;&lt;p&gt;工事中&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;amazonほしいものリスト&#34;&gt;Amazonほしいものリスト&lt;/h3&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;所有しているsnsアカウント&#34;&gt;所有しているSNSアカウント&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Misskey (シュミスキー)&lt;/li&gt;&#xA;&lt;li&gt;Misskey (ぽるぶすきー)&lt;/li&gt;&#xA;&lt;li&gt;Bluesky&lt;/li&gt;&#xA;&lt;li&gt;X（※非公開）&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>botの稼働サーバーをメインPCから移した</title>
+      <link>http://localhost:1313/blog/2025/2025-10-03-bot-utushita/</link>
+      <pubDate>Fri, 03 Oct 2025 13:18:31 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-03-bot-utushita/</guid>
+      <description>&lt;p&gt;TwitterとMisskey向けのPython製自作botを、メインPCからこのWordPressが動いている仮想ホストを動かしているサーバーに移しました（語彙力） .venv周りで苦労しましたが、やはり自分が作ったプログラムが動くとすっきり！！！！！！！！   あと、いろいろ自宅サーバーに移したいので、今使っているメインPCをサーバー化してしまおうか考えています。現在サーバーではNextCloudやWordPressが動いていますが、それ以外に、&lt;a href=&#34;https://eap.vg/server-info/&#34;&gt;かんたん宛名印刷さんみたいに&lt;/a&gt;監視ツールとかも自宅サーバーで動かそうかなと。 まだまだメモリに余裕はあるし、CPUはほとんど使ってくれないので、多分大丈夫だと思います。自宅サーバーで動かせるものはどんどん動かしてしまえ！（でもメールは当分さくらインターネットのお世話になります&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>やってしまいました</title>
+      <link>http://localhost:1313/blog/2025/2025-10-01-yarakashita/</link>
+      <pubDate>Wed, 01 Oct 2025 00:50:26 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-01-yarakashita/</guid>
+      <description>&lt;p&gt;新月早々やらかしました。 エックスサーバーVPSの解約を忘れて、銀行口座から4950円が引かれてしまい、残り845円に&amp;hellip; 幸い外貨預金をしていたので、米ドルを2200円分引き出しました。貯金していてよかった&amp;hellip;これでスタディサプリがなんとか払えます。 &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/10/Screenshot-from-2025-10-01-300x80.png&#34; alt=&#34;&#34;&gt; 今月でVPSから自宅サーバーに移すため、しばらくサブスク料金を支払うことはアマプラやNextDNS、スタディサプリ以外ではなさそうですが、こういう忘れをしないように&amp;hellip;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>久々のブログ</title>
+      <link>http://localhost:1313/blog/2025/2025-09-30-hisabisano-blog/</link>
+      <pubDate>Tue, 30 Sep 2025 03:06:38 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-09-30-hisabisano-blog/</guid>
+      <description>&lt;p&gt;新エディタは非常に使いづらいしindex.phpがURLに表示されてしまうのでいろいろ設定を変えようと考えています。ということで久々にブログ更新。 いずれはすべての記事をこっちに移すつもりです。 メモリ32GBの2枚セットは数ヶ月前まで普通に2万円以下で売っていましたが、最近では3万五え、安くても25000円なのがほとんどになってしまっています。これでは今のバイトの給料では高すぎて買えません。 ここで疑問に思ったのですが、そもそもメモリ128GBも必要なのか&amp;hellip;ということです。今のところサーバーには32GBのメモリを積んでいますが、全ては使い切っておらず、デスクトップ用VMを起動する時にswapを使用する程度です（なんで公開用鯖でやってるんだ &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/09/edcee6e8a8f56aff5b608293e7d39b4a-300x96.png&#34; alt=&#34;&#34;&gt; 本当はDDR4メモリが生産中のうちに32GBメモリを買い揃えたいのですが、流石に資金に余裕し、今のところは128GBも必要なさそうなので、もしこれから買うならしばらくは16GBの2枚セットにするつもりです。運良く32GBの2枚セットが2万円以下で売っていたら買うかもしれません。 というわけで今日のブログはここまで。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ついに新しいブログを公開しました</title>
+      <link>http://localhost:1313/blog/2025/2025-09-21-%e3%81%a4%e3%81%84%e3%81%ab%e6%96%b0%e3%81%97%e3%81%84%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%85%ac%e9%96%8b%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</link>
+      <pubDate>Sun, 21 Sep 2025 04:39:04 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-09-21-%e3%81%a4%e3%81%84%e3%81%ab%e6%96%b0%e3%81%97%e3%81%84%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%85%ac%e9%96%8b%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</guid>
+      <description>&lt;p&gt;色々ありましたが、ついに自宅サーバーで新しいブログを公開することができました。&lt;/p&gt;&#xA;&lt;p&gt;&amp;hellip;Cloudflare Tunnel経由な上に静的ブログではなくWordPressですが。&lt;/p&gt;&#xA;&lt;p&gt;とにかく新しい自宅サーバーでいろいろ公開しようと思います。&lt;/p&gt;&#xA;&lt;p&gt;あと、今まで自宅サーバーやVPSに何度もWordPressをインストールしてもなぜか何度もサイトを公開できなかったのですが、今回はちゃんと投稿できます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wordpress.stackexchange.com/questions/252543/password-strength-unknown-registration-issue&#34;&gt;https://wordpress.stackexchange.com/questions/252543/password-strength-unknown-registration-issue&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;このサイトを参考に、wp-config.phpに書き込んだだけ。なんてこった&amp;hellip;しかも日本語の情報皆無。&lt;/p&gt;&#xA;&lt;p&gt;あと未だにこのエディター慣れない。&lt;/p&gt;&#xA;&lt;p&gt;そんなこんなで、これからはこちらから色々更新したいと思います。よろしくおねがいします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>投稿テスト</title>
+      <link>http://localhost:1313/blog/2025/2025-09-21-%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%88/</link>
+      <pubDate>Sun, 21 Sep 2025 04:34:07 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-09-21-%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%88/</guid>
+      <description>&lt;p&gt;投稿のテストです&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello world!</title>
+      <link>http://localhost:1313/blog/2025/2025-09-21-hello-world/</link>
+      <pubDate>Sun, 21 Sep 2025 04:33:27 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-09-21-hello-world/</guid>
+      <description>&lt;p&gt;WordPress へようこそ。こちらは最初の投稿です。編集または削除し、コンテンツ作成を始めてください。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>サンプルページ</title>
+      <link>http://localhost:1313/blog/2025/2025-09-21-sample-page/</link>
+      <pubDate>Sun, 21 Sep 2025 04:33:27 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-09-21-sample-page/</guid>
+      <description>&lt;p&gt;これはサンプルページです。同じ位置に固定され、(多くのテーマでは) サイトナビゲーションメニューに含まれる点がブログ投稿とは異なります。まずは、サイト訪問者に対して自分のことを説明する自己紹介ページを作成するのが一般的です。たとえば以下のようなものです。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;はじめまして。昼間はバイク便のメッセンジャーとして働いていますが、俳優志望でもあります。これは僕のサイトです。ロサンゼルスに住み、ジャックという名前のかわいい犬を飼っています。好きなものはピニャコラーダ、そして通り雨に濡れること。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;または、このようなものです。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;XYZ 小道具株式会社は1971年の創立以来、高品質の小道具を皆様にご提供させていただいています。ゴッサム・シティに所在する当社では2,000名以上の社員が働いており、様々な形で地域のコミュニティへ貢献しています。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;新しく WordPress ユーザーになった方は、&lt;a href=&#34;https://blog.porubu.com/wp-admin/&#34;&gt;ダッシュボード&lt;/a&gt;へ行ってこのページを削除し、独自のコンテンツを含む新しいページを作成してください。それでは、お楽しみください !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>http://localhost:1313/blog/2025/2025-09-21-privacy-policy/</link>
+      <pubDate>Sun, 21 Sep 2025 04:33:27 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-09-21-privacy-policy/</guid>
+      <description>&lt;h2 id=&#34;私たちについて&#34;&gt;私たちについて&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; 私たちのサイトアドレスは &lt;a href=&#34;https://blog.porubu.com&#34;&gt;https://blog.porubu.com&lt;/a&gt; です。&lt;/p&gt;&#xA;&lt;h2 id=&#34;コメント&#34;&gt;コメント&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; 訪問者がこのサイトにコメントを残す際、コメントフォームに表示されているデータ、そしてスパム検出に役立てるための IP アドレスとブラウザーユーザーエージェント文字列を収集します。&lt;/p&gt;&#xA;&lt;p&gt;メールアドレスから作成される匿名化された (「ハッシュ」とも呼ばれる) 文字列は、あなたが Gravatar サービスを使用中かどうか確認するため同サービスに提供されることがあります。同サービスのプライバシーポリシーは &lt;a href=&#34;https://automattic.com/privacy/&#34;&gt;https://automattic.com/privacy/&lt;/a&gt; にあります。コメントが承認されると、プロフィール画像がコメントとともに一般公開されます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;メディア&#34;&gt;メディア&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; サイトに画像をアップロードする際、位置情報 (EXIF GPS) を含む画像をアップロードするべきではありません。サイトの訪問者は、サイトから画像をダウンロードして位置データを抽出することができます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;cookie&#34;&gt;Cookie&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; サイトにコメントを残す際、お名前、メールアドレス、サイトを Cookie に保存することにオプトインできます。これはあなたの便宜のためであり、他のコメントを残す際に詳細情報を再入力する手間を省きます。この Cookie は1年間保持されます。&lt;/p&gt;&#xA;&lt;p&gt;ログインページを訪問すると、お使いのブラウザーが Cookie を受け入れられるかを判断するために一時 Cookie を設定します。この Cookie は個人データを含んでおらず、ブラウザーを閉じると廃棄されます。&lt;/p&gt;&#xA;&lt;p&gt;ログインの際さらに、ログイン情報と画面表示情報を保持するため、私たちはいくつかの Cookie を設定します。ログイン Cookie は2日間、画面表示オプション Cookie は1年間保持されます。「ログイン状態を保存する」を選択した場合、ログイン情報は2週間維持されます。ログアウトするとログイン Cookie は消去されます。&lt;/p&gt;&#xA;&lt;p&gt;もし投稿を編集または公開すると、さらなる Cookie がブラウザーに保存されます。この Cookie は個人データを含まず、単に変更した投稿の ID を示すものです。1日で有効期限が切れます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;他サイトからの埋め込みコンテンツ&#34;&gt;他サイトからの埋め込みコンテンツ&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; このサイトの投稿には埋め込みコンテンツ (動画、画像、投稿など) が含まれます。他サイトからの埋め込みコンテンツは、訪問者がそのサイトを訪れた場合とまったく同じように振る舞います。&lt;/p&gt;&#xA;&lt;p&gt;これらのサイトは、あなたのデータの収集、Cookie の使用、サードパーティによる追加トラッキングの埋め込み、埋め込みコンテンツとのやりとりの監視を行うことがあります。アカウントを使ってそのサイトにログイン中の場合、埋め込みコンテンツとのやりとりのトラッキングも含まれます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;あなたのデータの共有先&#34;&gt;あなたのデータの共有先&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; パスワードリセットをリクエストすると、IP アドレスがリセット用のメールに含まれます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;データを保存する期間&#34;&gt;データを保存する期間&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; あなたがコメントを残すと、コメントとそのメタデータが無期限に保持されます。これは、モデレーションキューにコメントを保持しておく代わりに、フォローアップのコメントを自動的に認識し承認できるようにするためです。&lt;/p&gt;&#xA;&lt;p&gt;このサイトに登録したユーザーがいる場合、その方がユーザープロフィールページで提供した個人情報を保存します。すべてのユーザーは自分の個人情報を表示、編集、削除することができます (ただしユーザー名は変更することができません)。サイト管理者もそれらの情報を表示、編集できます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;データに対するあなたの権利&#34;&gt;データに対するあなたの権利&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;提案テキスト:&lt;/strong&gt; このサイトのアカウントを持っているか、サイトにコメントを残したことがある場合、私たちが保持するあなたについての個人データ (提供したすべてのデータを含む) をエクスポートファイルとして受け取るリクエストを行うことができます。また、個人データの消去リクエストを行うこともできます。これには、管理、法律、セキュリティ目的のために保持する義務があるデータは含まれません。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to Jekyll!</title>
+      <link>http://localhost:1313/blog/2025/2025-03-29-welcome-to-jekyll/</link>
+      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-03-29-welcome-to-jekyll/</guid>
+      <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;&#xA;&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Where &lt;code&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code&gt;MONTH&lt;/code&gt; and &lt;code&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>テストだお</title>
+      <link>http://localhost:1313/blog/2026/01/2026-01-11-test/</link>
+      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/01/2026-01-11-test/</guid>
+      <description>&lt;p&gt;文句ある？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日記用ブログを引っ越します</title>
+      <link>http://localhost:1313/blog/2025/2025-02-02-bitwarden/</link>
+      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-02-02-bitwarden/</guid>
+      <description>&lt;p&gt;7日から1週間と言われていたが、なんとか昨日には届いていたようだ。&#xA;しかし不在だったので明日届けるように連絡しておいた。&lt;/p&gt;&#xA;&lt;p&gt;Bitwardenのインスタンスが長らく更新されていない。エラーが起きていたのはこのせいか。&#xA;とにかく、VPSの支払いが終わったら、Bitwardenを更新する。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>日記用ブログを引っ越します</title>
+      <link>http://localhost:1313/blog/2025/2025-03-29-newblog/</link>
+      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-03-29-newblog/</guid>
+      <description>&lt;p&gt;日記用のブログを引っ越すことにしました。&#xA;これからは個人的なことはこっちに書きます。よろしくね。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>http://localhost:1313/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-3/</guid>
+      <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 2</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/2025/2025-03-18-remode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-03-18-remode/</guid>
+      <description>&lt;p&gt;なんか消したり復活させたりを繰り返してるななんか。&#xA;意味ないとわかったのでもう飽きるまでやりまくるのを続けてみるか。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
