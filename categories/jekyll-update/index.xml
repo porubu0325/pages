@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll Update on ほびサイト</title>
+    <title>Jekyll Update on PORUBU.com</title>
     <link>http://localhost:1313/categories/jekyll-update/</link>
-    <description>Recent content in Jekyll Update on ほびサイト</description>
+    <description>Recent content in Jekyll Update on PORUBU.com</description>
     <generator>Hugo</generator>
-    <language>ja-jp</language>
+    <language>en</language>
     <lastBuildDate>Sat, 29 Mar 2025 00:26:09 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/jekyll-update/index.xml" rel="self" type="application/rss+xml" />
     <item>

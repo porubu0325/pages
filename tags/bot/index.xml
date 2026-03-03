@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bot on ほびサイト</title>
+    <title>Bot on PORUBU.com</title>
     <link>http://localhost:1313/tags/bot/</link>
-    <description>Recent content in Bot on ほびサイト</description>
+    <description>Recent content in Bot on PORUBU.com</description>
     <generator>Hugo</generator>
-    <language>ja-jp</language>
+    <language>en</language>
     <lastBuildDate>Fri, 03 Oct 2025 13:18:31 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/bot/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/blog/2025/2025-10-03-bot-utushita/</link>
       <pubDate>Fri, 03 Oct 2025 13:18:31 +0000</pubDate>
       <guid>http://localhost:1313/blog/2025/2025-10-03-bot-utushita/</guid>
-      <description>&lt;p&gt;TwitterとMisskey向けのPython製自作botを、メインPCからこのWordPressが動いている仮想ホストを動かしているサーバーに移しました（語彙力） .venv周りで苦労しましたが、やはり自分が作ったプログラムが動くとすっきり！！！！！！！！   あと、いろいろ自宅サーバーに移したいので、今使っているメインPCをサーバー化してしまおうか考えています。現在サーバーではNextCloudやWordPressが動いていますが、それ以外に、&lt;a href=&#34;https://eap.vg/server-info/&#34;&gt;かんたん宛名印刷さんみたいに&lt;/a&gt;監視ツールとかも自宅サーバーで動かそうかなと。 まだまだメモリに余裕はあるし、CPUはほとんど使ってくれないので、多分大丈夫だと思います。自宅サーバーで動かせるものはどんどん動かしてしまえ！（でもメールは当分さくらインターネットのお世話になります&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;p&gt;TwitterとMisskey向けのPython製自作botを、メインPCからこのWordPressが動いている仮想ホストを動かしているサーバーに移しました（語彙力） .venv周りで苦労しましたが、やはり自分が作ったプログラムが動くとすっきり！！！！！！！！   あと、いろいろ自宅サーバーに移したいので、今使っているメインPCをサーバー化してしまおうか考えています。現在サーバーではNextCloudやWordPressが動いていますが、それ以外に、&lt;a href=&#34;https://eap.vg/server-info/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;かんたん宛名印刷さんみたいに&lt;/a&gt;監視ツールとかも自宅サーバーで動かそうかなと。 まだまだメモリに余裕はあるし、CPUはほとんど使ってくれないので、多分大丈夫だと思います。自宅サーバーで動かせるものはどんどん動かしてしまえ！（でもメールは当分さくらインターネットのお世話になります&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
