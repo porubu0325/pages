@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on PORUBU.com</title>
+    <title>Blog on PORUBU.com</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on PORUBU.com</description>
+    <description>Recent content in Blog on PORUBU.com</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:59:13 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:56:04 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudflare Pages</title>
+      <link>http://localhost:1313/blog/2026/03/16/cloudflare-pages/</link>
+      <pubDate>Mon, 16 Mar 2026 07:56:04 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/16/cloudflare-pages/</guid>
+      <description>&lt;p&gt;昨日までCodebergでこのサイトをホストし、GitHub Pages上でホストしていましたが、現在はCloudflare Pagesでサイトを公開しています。&#xA;いずれはVPS上での公開に移行するつもりです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>伺かを使いたい</title>
+      <link>http://localhost:1313/blog/2026/03/15/ukagaka/</link>
+      <pubDate>Sun, 15 Mar 2026 23:45:51 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/15/ukagaka/</guid>
+      <description>&lt;p&gt;伺かをメインPCでどうしても使いたいので、いろいろやってましたが、どうしても起動してくれません&amp;hellip;&#xA;最終的にWineを入れ直しましたが、それでも起動せず。なんかのエラーでmateria.exeが起動しません。&lt;/p&gt;&#xA;&lt;p&gt;とりあえずSSPを使用していくことに&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoftアカウントを消すつもりでいます</title>
+      <link>http://localhost:1313/blog/2026/03/12/i-will-delete-microsoft-account/</link>
+      <pubDate>Thu, 12 Mar 2026 00:23:24 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/12/i-will-delete-microsoft-account/</guid>
+      <description>&lt;p&gt;毎日ブログ更新2日目。&lt;/p&gt;&#xA;&lt;p&gt;んで、題名の通りです。&lt;/p&gt;&#xA;&lt;p&gt;ついにMicrosoftアカウントを消すことにしました。&lt;/p&gt;&#xA;&lt;p&gt;最大の壁であるMinecraft（以下マイクラ）ですが、最近マイクラを遊んでいないし、そもそもマイクラを「やる」事自体は別にPCでなくてもできるし、そもそも現在他のゲーム（特にシルクソング）やアニメや漫画や小説を読んだり勉強をしたりプログラミングをするのに忙しくて手が回りません。&lt;/p&gt;&#xA;&lt;p&gt;そもそもWindows自体使ったのがWindows 10で最後です。Windows 11？あんな表面が&lt;strong&gt;NT 10&lt;/strong&gt;と新しく見せてるだけのWindows NT 6.5は使いたくありません。SSD壊れる問題とか、勝手にスクショされる問題とか、色々ありますからね。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、あばよMS!!!!!!!!&lt;/p&gt;&#xA;&lt;p&gt;あ、まだGitHubは使います。Codebergか自前Gitサーバーにさえ移行できれば消すことができるのですが！！！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>またAIで時間を無駄にしていました</title>
+      <link>http://localhost:1313/blog/2026/03/11/wasted-time/</link>
+      <pubDate>Wed, 11 Mar 2026 00:38:19 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/11/wasted-time/</guid>
+      <description>&lt;p&gt;前置きしておきますが、私は反AIではありません。&lt;/p&gt;&#xA;&lt;p&gt;しかし一方で、これまで私はAIを使用して出来たまともな製品というものを知りません。むしろ最近はAIが過剰に推されすぎな気がしています。&lt;/p&gt;&#xA;&lt;p&gt;そんな私がAIを使って&lt;del&gt;どうでもいいような&lt;/del&gt;ファイルを整理しようとして失敗したことの話です。とりあえずこれを毎日ブログの1日目としておきますか。&lt;/p&gt;&#xA;&lt;h1 id=&#34;なぜaiを使おうと思ったのか&#34;&gt;&#xA;  なぜAIを使おうと思ったのか？&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e3%81%aa%e3%81%9cai%e3%82%92%e4%bd%bf%e3%81%8a%e3%81%86%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%8b&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Open WebUIのナレッジベースに大量に溜め込んでおいた&lt;del&gt;ゴミ&lt;/del&gt;どうでもいいようなMarkdownファイルを一旦整理しようと思ったため。&#xA;&lt;a href=&#34;https://eap.vg/pics/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eap.vg/pics/&lt;/a&gt;&#xA;一時期ローカルAIをやろうとしていましたが、出力結果はあまり有効ではないものだったし、結局クラウドモデルを使ってしまうし、そもそもMacBook ProとOpen WebUIをいちいち起動するのが面倒だったので、全然使っていませんでした。&lt;/p&gt;&#xA;&lt;p&gt;なので一旦クラウドAIで管理しようと思い、ChatGPTとClaudeのアカウントを作成しました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;chatgpt-vs-claude&#34;&gt;&#xA;  ChatGPT vs Claude&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#chatgpt-vs-claude&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;どちらのAIもものすごい勢いで&lt;del&gt;いろいろなデータを学習して&lt;/del&gt;賢くなっていますが、そこまでの賢さも必要なかった（そもそもバイブコーディングなんてやろうと思わない）ので、この2つに絞りました。Geminiでも良かったのですが、運営元がGoogleということ、Bard時代のときは虚構ばっかり出力して信用できないという理由で除外。&lt;/p&gt;&#xA;&lt;p&gt;その後ChatGPTの最新バージョン（GPT5.3だったかな）を色々試しましたが、出力結果は短く、しかも媚びてくるのは相変わらずだったため、そこそこ時間をかけて整理してくれるClaudeに決めました。&lt;/p&gt;&#xA;&lt;p&gt;そしてClaude上にいくらかプロジェクトを作成し、OpenWebUIからファイルを手動でエクスポートをしますが、ファイル数が1000以上。。。どんだけ貯めておいたのか。&lt;/p&gt;&#xA;&lt;h1 id=&#34;実際に色々やってみたが&#34;&gt;&#xA;  実際に色々やってみた。が。。。&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e5%ae%9f%e9%9a%9b%e3%81%ab%e8%89%b2%e3%80%85%e3%82%84%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%8c&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Claudeの場合、ドキュメントを生成してくれます。&lt;/p&gt;&#xA;&lt;p&gt;ただし、ユーザーはダウンロードしない限りそのドキュメントには手を加えられません。これをやるためにいちいち命令しないといけないのが面倒です。しかも工夫して。&lt;/p&gt;&#xA;&lt;h1 id=&#34;媚びてくるllmが気持ち悪い&#34;&gt;&#xA;  「媚びてくるLLM」が気持ち悪い&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e5%aa%9a%e3%81%b3%e3%81%a6%e3%81%8f%e3%82%8bllm%e3%81%8c%e6%b0%97%e6%8c%81%e3%81%a1%e6%82%aa%e3%81%84&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;これは個人的な考え。ChatGPTの一時期の媚びっぷりが嫌で、LLMがユーザーに媚びる動作・出力をするのが本当に嫌いです。&lt;/p&gt;&#xA;&lt;p&gt;タイトルの組み合わせの解析を頼んだのですが、Claudeが「楽しい」という単語を使用しただけで拒否反応が出てしまいました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;結果&#34;&gt;&#xA;  結果&amp;hellip;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e7%b5%90%e6%9e%9c&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;あのどうでも良いようなMarkdownファイルなのですが、この先役に立つこともないだろうと思い、最終的に全部消してしまいました。最初からそうすればよかったのです&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;結局、またAIに時間を無駄にしてしまいました。AIの使い方が下手なだけなのかもしれませんが、「ろくに使えない」「電気の無駄」「媚びてくる」AIにまた振り回されて終わったのです。おわり。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Macbook Neoが発売。だけど...</title>
       <link>http://localhost:1313/blog/2026/03/05/macbook-neo/</link>
