@@ -6,27 +6,41 @@
     <description>Recent content in Blogs on PORUBU.com</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 25 Feb 2026 09:22:46 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 11:59:13 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Macbook Neoが発売。だけど...</title>
+      <link>http://localhost:1313/blog/2026/03/05/macbook-neo/</link>
+      <pubDate>Thu, 05 Mar 2026 11:59:13 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/05/macbook-neo/</guid>
+      <description>&lt;p&gt;昨日、Appleから新しいM5搭載MacBook AirとMacBook Proや、iPhone 17eの他に、&lt;a href=&#34;https://www.apple.com/jp/macbook-neo/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iPhoneで採用されているSoCを搭載したMacBook Neo&lt;/a&gt;なるものが発売されました。&#xA;iPhone 17eについては後日記事を書く予定です。&lt;/p&gt;&#xA;&lt;h2 id=&#34;さてさて&#34;&gt;&#xA;  さてさて&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e3%81%95%e3%81%a6%e3%81%95%e3%81%a6&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;これ、MacBookにしては10万円台と、一番廉価なモデルとなりますが、個人的に思ったことは&amp;hellip;&#xA;AIバブルで半導体の価格が高騰しているとはいえ、&lt;strong&gt;高い。&lt;/strong&gt;&#xA;スペックは&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apple A18 Proチップ（高性能2コア+高効率4コアCPU、5コアGPU、16コアNPU）&lt;/li&gt;&#xA;&lt;li&gt;8GBユニファイドメモリ（増設不可能）&lt;/li&gt;&#xA;&lt;li&gt;256GB SSD（おそらく交換不可）&#xA;Macだから仕方ないか。機材を大量に導入する必要のある教育市場などなら需要はあると思いますが&amp;hellip;ちなみに私はビッグテックのガチアンチです。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;価格を調べてみた&#34;&gt;&#xA;  価格を調べてみた&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e4%be%a1%e6%a0%bc%e3%82%92%e8%aa%bf%e3%81%b9%e3%81%a6%e3%81%bf%e3%81%9f&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;価格.comで調べたら、&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kakaku.com/item/K0001707678/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dell 14 Ryzen 7 250（8コア）・16GBメモリ・512GB SSD搭載モデル&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kakaku.com/item/K0001721253/spec/#tab&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ドスパラ Ryzen 5 7430U・8GBメモリ・500GB SSD（¥99,980）&lt;/a&gt;&#xA;の&lt;del&gt;スロップOS&lt;/del&gt; Windows搭載ノートPCが買えます。Officeなしならこんなもんでしょうか。Windowsがなければもっと安く買えるか、同じ価格でさらに高性能なノートPCでしょう&amp;hellip;なのになぜメーカーはOSなし、もしくはLinux搭載ノートPCを売らないんでしょうか？マイク&lt;del&gt;ソ&lt;/del&gt;ロソフトがPCメーカーを恐喝してるのでしょうか？&#xA;日本メーカーは技術者を大事にしないとよく言いますが、個人的にビッグテックは消費者を大事にしていないと思います。&#xA;NECの以下のモデルですら、メモリの増設やSSDの交換ができるというのに&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kakaku.com/item/K0001764505/spec/#tab&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAVIE N15 N1530（15インチ/AMD Ryzen 3 7335U 4コア/メモリ8GB（最大32GB）/256GB SSD）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;最後に&#34;&gt;&#xA;  最後に&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%80%e5%be%8c%e3%81%ab&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;最近、どのビッグテックの強気な商売しかしていなくて&amp;hellip;&#xA;とにかくこのままだといずれ衰退すると思います。いや、自分にとっては、とっとと衰退してほしいのですが。。。特にGoogle。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>6時間ぐらい勉強していました</title>
+      <link>http://localhost:1313/blog/2026/03/04/6hours-study/</link>
+      <pubDate>Wed, 04 Mar 2026 23:07:16 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/04/6hours-study/</guid>
+      <description>&lt;p&gt;これぐらい勉強に時間かけたの1年以上ぶりかも。。。&#xA;というわけで久しぶりに6時間ぐらい勉強に時間かけていました。&#xA;相変わらずまだ基礎で、数学は教科書＋数学Iですが&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;あと、これからはなるべく毎日ブログを更新したいなーと。その一方で勉強に多くの時間を敷きたい、でもアニメ見たいしゲームやりたい、でもC言語も学びたい&amp;hellip;とにかくやりたいこともやらなければ行けないことも多いぃぃぃぃぃぃ！！！！！！&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ブログ移転のテストです パート2</title>
-      <link>http://localhost:1313/blog/2026/02/25-blog-iten-test/</link>
+      <link>http://localhost:1313/blog/2026/02/25/25-blog-iten-test/</link>
       <pubDate>Wed, 25 Feb 2026 09:22:46 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/02/25-blog-iten-test/</guid>
+      <guid>http://localhost:1313/blog/2026/02/25/25-blog-iten-test/</guid>
       <description>&lt;p&gt;ブログ 2日目。&#xA;またブログを移転しようと思ってます（といってもこの記事を書いている時点で公開すらしていませんが日記ということで、、、）&#xA;とりあえずあれほど嫌っていたHugoにしています。もうHTMLを1から書くのは面倒だし、、、&#xA;ただテーマは自作しようと思っています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>テスト投稿</title>
-      <link>http://localhost:1313/blog/2026/02/24-test/</link>
+      <link>http://localhost:1313/blog/2026/02/24/test/</link>
       <pubDate>Tue, 24 Feb 2026 22:12:22 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/02/24-test/</guid>
+      <guid>http://localhost:1313/blog/2026/02/24/test/</guid>
       <description>&lt;p&gt;記事のテスト作成です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ブログ移転のテストです</title>
-      <link>http://localhost:1313/blog/2026/02/10-blog-iten/</link>
+      <link>http://localhost:1313/blog/2026/02/10/blog-iten/</link>
       <pubDate>Tue, 10 Feb 2026 13:33:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/02/10-blog-iten/</guid>
+      <guid>http://localhost:1313/blog/2026/02/10/blog-iten/</guid>
       <description>&lt;p&gt;お久しぶりのブログです。&lt;/p&gt;&#xA;&lt;p&gt;今日から自分のサイトをCodeberg Pagesで公開することにしましたが、それにあたっていろいろドメイン周りで手こずりました。。&lt;/p&gt;&#xA;&lt;p&gt;CloudflareのDNSではALIASが使えないのでCNAMEだけでやろうとしたらうまくいかず、reponame.username.codeberg.page形式でやっても表示されずでいろいろ試行錯誤しましたが、最終的に&lt;a href=&#34;https://docs.codeberg.org/codeberg-pages/using-custom-domain/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式ドキュメント&lt;/a&gt; 通りにやったらなんとかうまく表示されてくれました。&lt;/p&gt;&#xA;&lt;p&gt;これで再び自分のサイトを独自ドメインで公開できます。ただしブログはまだ。&#xA;今度はブログを独自ドメインにするのにいろいろ手こずっています。いずれはこっちも独自ドメインにしたい。&lt;/p&gt;</description>
     </item>
     <item>
