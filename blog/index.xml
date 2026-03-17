@@ -1,146 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on PORUBU.com</title>
+    <title>Blogs on PORUBU.com</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on PORUBU.com</description>
+    <description>Recent content in Blogs on PORUBU.com</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:56:04 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 15:30:08 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cloudflare Pages</title>
-      <link>http://localhost:1313/blog/2026/03/16/cloudflare-pages/</link>
-      <pubDate>Mon, 16 Mar 2026 07:56:04 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/03/16/cloudflare-pages/</guid>
-      <description>&lt;p&gt;昨日までCodebergでこのサイトをホストし、GitHub Pages上でホストしていましたが、現在はCloudflare Pagesでサイトを公開しています。&#xA;いずれはVPS上での公開に移行するつもりです。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>伺かを使いたい</title>
-      <link>http://localhost:1313/blog/2026/03/15/ukagaka/</link>
-      <pubDate>Sun, 15 Mar 2026 23:45:51 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/03/15/ukagaka/</guid>
-      <description>&lt;p&gt;伺かをメインPCでどうしても使いたいので、いろいろやってましたが、どうしても起動してくれません&amp;hellip;&#xA;最終的にWineを入れ直しましたが、それでも起動せず。なんかのエラーでmateria.exeが起動しません。&lt;/p&gt;&#xA;&lt;p&gt;とりあえずSSPを使用していくことに&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoftアカウントを消すつもりでいます</title>
-      <link>http://localhost:1313/blog/2026/03/12/i-will-delete-microsoft-account/</link>
-      <pubDate>Thu, 12 Mar 2026 00:23:24 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/03/12/i-will-delete-microsoft-account/</guid>
-      <description>&lt;p&gt;毎日ブログ更新2日目。&lt;/p&gt;&#xA;&lt;p&gt;んで、題名の通りです。&lt;/p&gt;&#xA;&lt;p&gt;ついにMicrosoftアカウントを消すことにしました。&lt;/p&gt;&#xA;&lt;p&gt;最大の壁であるMinecraft（以下マイクラ）ですが、最近マイクラを遊んでいないし、そもそもマイクラを「やる」事自体は別にPCでなくてもできるし、そもそも現在他のゲーム（特にシルクソング）やアニメや漫画や小説を読んだり勉強をしたりプログラミングをするのに忙しくて手が回りません。&lt;/p&gt;&#xA;&lt;p&gt;そもそもWindows自体使ったのがWindows 10で最後です。Windows 11？あんな表面が&lt;strong&gt;NT 10&lt;/strong&gt;と新しく見せてるだけのWindows NT 6.5は使いたくありません。SSD壊れる問題とか、勝手にスクショされる問題とか、色々ありますからね。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、あばよMS!!!!!!!!&lt;/p&gt;&#xA;&lt;p&gt;あ、まだGitHubは使います。Codebergか自前Gitサーバーにさえ移行できれば消すことができるのですが！！！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>またAIで時間を無駄にしていました</title>
-      <link>http://localhost:1313/blog/2026/03/11/wasted-time/</link>
-      <pubDate>Wed, 11 Mar 2026 00:38:19 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/03/11/wasted-time/</guid>
-      <description>&lt;p&gt;前置きしておきますが、私は反AIではありません。&lt;/p&gt;&#xA;&lt;p&gt;しかし一方で、これまで私はAIを使用して出来たまともな製品というものを知りません。むしろ最近はAIが過剰に推されすぎな気がしています。&lt;/p&gt;&#xA;&lt;p&gt;そんな私がAIを使って&lt;del&gt;どうでもいいような&lt;/del&gt;ファイルを整理しようとして失敗したことの話です。とりあえずこれを毎日ブログの1日目としておきますか。&lt;/p&gt;&#xA;&lt;h1 id=&#34;なぜaiを使おうと思ったのか&#34;&gt;&#xA;  なぜAIを使おうと思ったのか？&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e3%81%aa%e3%81%9cai%e3%82%92%e4%bd%bf%e3%81%8a%e3%81%86%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%8b&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Open WebUIのナレッジベースに大量に溜め込んでおいた&lt;del&gt;ゴミ&lt;/del&gt;どうでもいいようなMarkdownファイルを一旦整理しようと思ったため。&#xA;&lt;a href=&#34;https://eap.vg/pics/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eap.vg/pics/&lt;/a&gt;&#xA;一時期ローカルAIをやろうとしていましたが、出力結果はあまり有効ではないものだったし、結局クラウドモデルを使ってしまうし、そもそもMacBook ProとOpen WebUIをいちいち起動するのが面倒だったので、全然使っていませんでした。&lt;/p&gt;&#xA;&lt;p&gt;なので一旦クラウドAIで管理しようと思い、ChatGPTとClaudeのアカウントを作成しました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;chatgpt-vs-claude&#34;&gt;&#xA;  ChatGPT vs Claude&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#chatgpt-vs-claude&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;どちらのAIもものすごい勢いで&lt;del&gt;いろいろなデータを学習して&lt;/del&gt;賢くなっていますが、そこまでの賢さも必要なかった（そもそもバイブコーディングなんてやろうと思わない）ので、この2つに絞りました。Geminiでも良かったのですが、運営元がGoogleということ、Bard時代のときは虚構ばっかり出力して信用できないという理由で除外。&lt;/p&gt;&#xA;&lt;p&gt;その後ChatGPTの最新バージョン（GPT5.3だったかな）を色々試しましたが、出力結果は短く、しかも媚びてくるのは相変わらずだったため、そこそこ時間をかけて整理してくれるClaudeに決めました。&lt;/p&gt;&#xA;&lt;p&gt;そしてClaude上にいくらかプロジェクトを作成し、OpenWebUIからファイルを手動でエクスポートをしますが、ファイル数が1000以上。。。どんだけ貯めておいたのか。&lt;/p&gt;&#xA;&lt;h1 id=&#34;実際に色々やってみたが&#34;&gt;&#xA;  実際に色々やってみた。が。。。&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e5%ae%9f%e9%9a%9b%e3%81%ab%e8%89%b2%e3%80%85%e3%82%84%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%8c&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Claudeの場合、ドキュメントを生成してくれます。&lt;/p&gt;&#xA;&lt;p&gt;ただし、ユーザーはダウンロードしない限りそのドキュメントには手を加えられません。これをやるためにいちいち命令しないといけないのが面倒です。しかも工夫して。&lt;/p&gt;&#xA;&lt;h1 id=&#34;媚びてくるllmが気持ち悪い&#34;&gt;&#xA;  「媚びてくるLLM」が気持ち悪い&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e5%aa%9a%e3%81%b3%e3%81%a6%e3%81%8f%e3%82%8bllm%e3%81%8c%e6%b0%97%e6%8c%81%e3%81%a1%e6%82%aa%e3%81%84&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;これは個人的な考え。ChatGPTの一時期の媚びっぷりが嫌で、LLMがユーザーに媚びる動作・出力をするのが本当に嫌いです。&lt;/p&gt;&#xA;&lt;p&gt;タイトルの組み合わせの解析を頼んだのですが、Claudeが「楽しい」という単語を使用しただけで拒否反応が出てしまいました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;結果&#34;&gt;&#xA;  結果&amp;hellip;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e7%b5%90%e6%9e%9c&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;あのどうでも良いようなMarkdownファイルなのですが、この先役に立つこともないだろうと思い、最終的に全部消してしまいました。最初からそうすればよかったのです&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;結局、またAIに時間を無駄にしてしまいました。AIの使い方が下手なだけなのかもしれませんが、「ろくに使えない」「電気の無駄」「媚びてくる」AIにまた振り回されて終わったのです。おわり。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Macbook Neoが発売。だけど...</title>
-      <link>http://localhost:1313/blog/2026/03/05/macbook-neo/</link>
-      <pubDate>Thu, 05 Mar 2026 11:59:13 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/03/05/macbook-neo/</guid>
-      <description>&lt;p&gt;昨日、Appleから新しいM5搭載MacBook AirとMacBook Proや、iPhone 17eの他に、&lt;a href=&#34;https://www.apple.com/jp/macbook-neo/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iPhoneで採用されているSoCを搭載したMacBook Neo&lt;/a&gt;なるものが発売されました。&#xA;iPhone 17eについては後日記事を書く予定です。&lt;/p&gt;&#xA;&lt;h2 id=&#34;さてさて&#34;&gt;&#xA;  さてさて&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e3%81%95%e3%81%a6%e3%81%95%e3%81%a6&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;これ、MacBookにしては10万円台と、一番廉価なモデルとなりますが、個人的に思ったことは&amp;hellip;&#xA;AIバブルで半導体の価格が高騰しているとはいえ、&lt;strong&gt;高い。&lt;/strong&gt;&#xA;スペックは&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apple A18 Proチップ（高性能2コア+高効率4コアCPU、5コアGPU、16コアNPU）&lt;/li&gt;&#xA;&lt;li&gt;8GBユニファイドメモリ（増設不可能）&lt;/li&gt;&#xA;&lt;li&gt;256GB SSD（おそらく交換不可）&#xA;Macだから仕方ないか。機材を大量に導入する必要のある教育市場などなら需要はあると思いますが&amp;hellip;ちなみに私はビッグテックのガチアンチです。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;価格を調べてみた&#34;&gt;&#xA;  価格を調べてみた&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e4%be%a1%e6%a0%bc%e3%82%92%e8%aa%bf%e3%81%b9%e3%81%a6%e3%81%bf%e3%81%9f&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;価格.comで調べたら、&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kakaku.com/item/K0001707678/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dell 14 Ryzen 7 250（8コア）・16GBメモリ・512GB SSD搭載モデル&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kakaku.com/item/K0001721253/spec/#tab&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ドスパラ Ryzen 5 7430U・8GBメモリ・500GB SSD（¥99,980）&lt;/a&gt;&#xA;の&lt;del&gt;スロップOS&lt;/del&gt; Windows搭載ノートPCが買えます。Officeなしならこんなもんでしょうか。Windowsがなければもっと安く買えるか、同じ価格でさらに高性能なノートPCでしょう&amp;hellip;なのになぜメーカーはOSなし、もしくはLinux搭載ノートPCを売らないんでしょうか？マイク&lt;del&gt;ソ&lt;/del&gt;ロソフトがPCメーカーを恐喝してるのでしょうか？&#xA;日本メーカーは技術者を大事にしないとよく言いますが、個人的にビッグテックは消費者を大事にしていないと思います。&#xA;NECの以下のモデルですら、メモリの増設やSSDの交換ができるというのに&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kakaku.com/item/K0001764505/spec/#tab&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAVIE N15 N1530（15インチ/AMD Ryzen 3 7335U 4コア/メモリ8GB（最大32GB）/256GB SSD）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;最後に&#34;&gt;&#xA;  最後に&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%80%e5%be%8c%e3%81%ab&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;最近、どのビッグテックの強気な商売しかしていなくて&amp;hellip;&#xA;とにかくこのままだといずれ衰退すると思います。いや、自分にとっては、とっとと衰退してほしいのですが。。。特にGoogle。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>6時間ぐらい勉強していました</title>
-      <link>http://localhost:1313/blog/2026/03/04/6hours-study/</link>
-      <pubDate>Wed, 04 Mar 2026 23:07:16 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/03/04/6hours-study/</guid>
-      <description>&lt;p&gt;これぐらい勉強に時間かけたの1年以上ぶりかも。。。&#xA;というわけで久しぶりに6時間ぐらい勉強に時間かけていました。&#xA;相変わらずまだ基礎で、数学は教科書＋数学Iですが&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;あと、これからはなるべく毎日ブログを更新したいなーと。その一方で勉強に多くの時間を敷きたい、でもアニメ見たいしゲームやりたい、でもC言語も学びたい&amp;hellip;とにかくやりたいこともやらなければ行けないことも多いぃぃぃぃぃぃ！！！！！！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ブログ移転のテストです パート2</title>
-      <link>http://localhost:1313/blog/2026/02/25/25-blog-iten-test/</link>
-      <pubDate>Wed, 25 Feb 2026 09:22:46 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/02/25/25-blog-iten-test/</guid>
-      <description>&lt;p&gt;ブログ 2日目。&#xA;またブログを移転しようと思ってます（といってもこの記事を書いている時点で公開すらしていませんが日記ということで、、、）&#xA;とりあえずあれほど嫌っていたHugoにしています。もうHTMLを1から書くのは面倒だし、、、&#xA;ただテーマは自作しようと思っています。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>テスト投稿</title>
-      <link>http://localhost:1313/blog/2026/02/24/test/</link>
-      <pubDate>Tue, 24 Feb 2026 22:12:22 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/02/24/test/</guid>
-      <description>&lt;p&gt;記事のテスト作成です。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ブログ移転のテストです</title>
-      <link>http://localhost:1313/blog/2026/02/10/blog-iten/</link>
-      <pubDate>Tue, 10 Feb 2026 13:33:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/02/10/blog-iten/</guid>
-      <description>&lt;p&gt;お久しぶりのブログです。&lt;/p&gt;&#xA;&lt;p&gt;今日から自分のサイトをCodeberg Pagesで公開することにしましたが、それにあたっていろいろドメイン周りで手こずりました。。&lt;/p&gt;&#xA;&lt;p&gt;CloudflareのDNSではALIASが使えないのでCNAMEだけでやろうとしたらうまくいかず、reponame.username.codeberg.page形式でやっても表示されずでいろいろ試行錯誤しましたが、最終的に&lt;a href=&#34;https://docs.codeberg.org/codeberg-pages/using-custom-domain/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式ドキュメント&lt;/a&gt; 通りにやったらなんとかうまく表示されてくれました。&lt;/p&gt;&#xA;&lt;p&gt;これで再び自分のサイトを独自ドメインで公開できます。ただしブログはまだ。&#xA;今度はブログを独自ドメインにするのにいろいろ手こずっています。いずれはこっちも独自ドメインにしたい。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>今月もありがとうございました</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-31-arigatou/</link>
-      <pubDate>Sat, 31 Jan 2026 13:33:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-31-arigatou/</guid>
-      <description>&lt;p&gt;なんか5日ぐらいサボっていましたが、ただ単にネタがなかっただけです。&lt;/p&gt;&#xA;&lt;p&gt;今月はほぼ所持金が尽きているのでしばらく何も買えません、、、、、&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>元気です</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-24-genki-desu/</link>
-      <pubDate>Sat, 24 Jan 2026 13:33:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-24-genki-desu/</guid>
-      <description>&lt;p&gt;なんとか元気にやってます。&lt;/p&gt;&#xA;&lt;p&gt;昨日は久しぶりに回転寿司へ行きました。いつもの家から近い方ではなく、ハードオフの隣の方のやつです（わかんねえよ&lt;/p&gt;&#xA;&lt;p&gt;それ以外は一日中ぐったりだったのでなんもやってませんでした。少なくともProxmoxはいじりました。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>元気です</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-26-samui/</link>
-      <pubDate>Sat, 24 Jan 2026 13:33:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-26-samui/</guid>
-      <description>&lt;p&gt;寒いですね。&lt;/p&gt;&#xA;&lt;p&gt;昨日はいろいろ見に大宮まで行きましたが、結局何も買ってませんし何も食べてません。&lt;/p&gt;&#xA;&lt;p&gt;でもココ壱とかは行ってみたいかな。&lt;/p&gt;&#xA;&lt;p&gt;スマホとかありましたけどそれは来月の給料が出たら、買うことにします。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>朝からすごくだるかったです＆回転寿司</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-23-kaiten-zushi/</link>
-      <pubDate>Fri, 23 Jan 2026 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-23-kaiten-zushi/</guid>
-      <description>&lt;p&gt;今日は朝何も食べていない上にそんなに寝れていないため、晩御飯を食べるまでぐったりしていました。&lt;/p&gt;&#xA;&lt;p&gt;そのため、朝に書こうと思っているブログを21時に書いています。&lt;/p&gt;&#xA;&lt;p&gt;そうそう、回転寿司行きました。うまかったです（語彙力）&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>早起きしたのかすごくねむい</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-22-nemui/</link>
-      <pubDate>Thu, 22 Jan 2026 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-22-nemui/</guid>
-      <description>&lt;p&gt;今日はいつもより1時間はやく起きたのですが・・・すごく眠くていつもよりぐったりしています。&lt;/p&gt;&#xA;&lt;p&gt;23時頃に寝ようとしていたのですが、はProxmoxでDNS設定と格闘していて布団に入れなかったので、結局寝たのは24時ごろになってしまいました。&lt;/p&gt;&#xA;&lt;p&gt;これがかなり曲者で、、、今回はUbuntu ServerではなくRocky Linuxを使用しましたが、firewalldは今回が使うのが初めてでいろいろ苦戦していました。&lt;/p&gt;&#xA;&lt;p&gt;その上ネットワーク設定がうまくいかず、エラーが出て検索してもなかなかヒットせず、、、いろいろあったわけです。&lt;/p&gt;&#xA;&lt;p&gt;今週末はネットワーク設定にまるまる漬けるか・・・&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Framework Laptopがほしい</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-19-framework/</link>
-      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-19-framework/</guid>
-      <description>&lt;p&gt;半年ぐらい前に&lt;a href=&#34;https://thewheatricks0325.hatenablog.com/entry/2025/08/13/230110&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こんな記事&lt;/a&gt;を書きました。&#xA;&amp;hellip;このタイトルなのですが、最近半導体の値上がりがすごく~~（ビッグテック解せぬ）~~、今年中どころか来年にも買えなさそうなため、プロジェクトが存続していれば2030年ぐらいに買うことを考えています。では、現在の価格を元に、色々考えてみることにします&amp;hellip;&lt;/p&gt;&#xA;&lt;h1 id=&#34;価格見積り-16インチvs16インチ&#34;&gt;&#xA;  価格見積り: 16インチvs16インチ&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e4%be%a1%e6%a0%bc%e8%a6%8b%e7%a9%8d%e3%82%8a-16%e3%82%a4%e3%83%b3%e3%83%81vs16%e3%82%a4%e3%83%b3%e3%83%81&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;MacBook Pro 16 vs Framework Laptop 16 最高性能は如何なものか？&lt;/p&gt;&#xA;&lt;h2 id=&#34;macbook-pro&#34;&gt;&#xA;  MacBook Pro&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#macbook-pro&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;最高性能の場合、以下のような価格。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;16コアCPU、40コアGPU、16コアNeural Engine搭載Apple M4 Maxチップ&lt;/li&gt;&#xA;&lt;li&gt;16インチLiquid Retina XDR Nano-textureディスプレイ&lt;/li&gt;&#xA;&lt;li&gt;128GBユニファイドメモリ&lt;/li&gt;&#xA;&lt;li&gt;8TB SSD&lt;/li&gt;&#xA;&lt;li&gt;140W USB-C電源アダプタ&#xA;これでなんと&lt;strong&gt;1,166,800円&lt;/strong&gt;。Final Cut Pro、Logic Proオプションもつけると、&lt;strong&gt;1,216,800円&lt;/strong&gt;。高ぇ〜〜〜。しかも最新のOSがクソ（直球）なので、購入対象になりません。Appleだし仕方ないね。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;framework-laptop-16&#34;&gt;&#xA;  Framework Laptop 16&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#framework-laptop-16&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;一方、Framework Laptopの場合&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AMD Ryzen AI 9 HX 370 (12コア24スレッド)&lt;/li&gt;&#xA;&lt;li&gt;内蔵GPU + 外付けNVIDIA GeForce RTX 5070 (8GB GDDR7)&lt;/li&gt;&#xA;&lt;li&gt;96GB DDR5-5600 (48GB x 2)&lt;/li&gt;&#xA;&lt;li&gt;8TB WD BLACK SN850X NVMe M.2 2280 SSD&lt;/li&gt;&#xA;&lt;li&gt;2TB WD BLACK SN770M NVMe M.2 2230 SSD&lt;/li&gt;&#xA;&lt;li&gt;OSなし（Windowsなんかいらん！！！！！！！！）&lt;/li&gt;&#xA;&lt;li&gt;黒ベゼル&lt;/li&gt;&#xA;&lt;li&gt;黒モジュール&lt;/li&gt;&#xA;&lt;li&gt;USB-C拡張カード x 6&lt;/li&gt;&#xA;&lt;li&gt;英語キーボード&#xA;これだけで、5022ドル、日本円で&lt;strong&gt;791,121円&lt;/strong&gt;です。以下のオプションをつけても、電源アダプタとか、Windows 11&lt;del&gt;とかいうどんな新品のパソコンでも産廃にすることができるクソOS&lt;/del&gt;をつけても、8,480ドル、日本円で、&lt;strong&gt;1,335,864円&lt;/strong&gt;です。Macを超えてしまいましたが、Mac&lt;strong&gt;単体&lt;/strong&gt;と違い、こちらはパーツを他のFrameworkやPCとかにも流用できるので、こちらのほうがお得です。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;技適とか色々&#34;&gt;&#xA;  技適とか色々&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%8a%80%e9%81%a9%e3%81%a8%e3%81%8b%e8%89%b2%e3%80%85&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://note.com/pooh01/n/n5636ebfed9df&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://note.com/pooh01/n/n5636ebfed9df&lt;/a&gt;&#xA;noteの記事（※個人的にnoteは嫌いです）なのですが、どうやらモジュールに技適はついているようです。あと、&lt;del&gt;斗乱腐&lt;/del&gt; トランプの関税のせいでアメリカからの輸入がすごいことになりそうなので、アメリカ以外、例えばカナダや欧州からの個人輸入を行うか、もしくは日本で展開されるのを待つか&amp;hellip;のどちらかになりそうです。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Xのアカウントを全て削除しました</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-21-elon-sucks/</link>
-      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-21-elon-sucks/</guid>
-      <description>&lt;p&gt;今年１月ごろに全て削除するようにして、その数日後結局復活させたXのアカウントですが、この度全て削除することにしました。&lt;/p&gt;&#xA;&lt;p&gt;もともとbotを動か&lt;del&gt;してゴミを捨てる&lt;/del&gt;す用に10個ぐらいのアカウントを作って&lt;del&gt;イーロンの邪魔をしてやろうと思って&lt;/del&gt;（むしろこっちが本音）いたのですが、X運営の実権を握っているがイーロン・マスクという1人の億万長者であり、そのうえ独自の議論を生むような生成AIを運営している以上、サーバーのリソースが自分1人では敵わないほど十分にある以上、イーロンのAI&lt;del&gt;という糞みたいな趣味が悪いもの&lt;/del&gt;にエサを与えてるような感じになっていると考えたからです。&lt;/p&gt;&#xA;&lt;p&gt;そもそもMisskeyやMastodonなど（Fediverse）からでもブリッジがあれば見れるし、Xの投稿を見るなら代替えフロントエンドがあるし、Xのアカウント自体作らなくても良いのかもしれません。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、Xのアカウントをこの度は削除させていただいた、という報告の記事です。あとついでにBlueskyのアカウントも消します。ゴミ捨て場はしばらくうちのMisskey（オブジェクトストレージがCloudflare R2）を使っておきます。あばよX！！！！！！！！！&lt;/p&gt;&#xA;&lt;p&gt;2026年1月31日追記&#xA;&lt;del&gt;XをやめてもNitterから見ることをやめられません。一応Nitterを使用してRSSを取得していますが、Nitterインスタンスも基本は外部である上に、いつまで持つか分からないので、結局アカウントを復活させました。&#xA;まあといっても、用途は自動ポストぐらいしかないのですが。&lt;/del&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>自前でWayback Machineを作ろう</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-20-webarchive/</link>
-      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-20-webarchive/</guid>
-      <description>&lt;p&gt;現在、自前でWayback Machineみたいなものを作ろうとするために、過去のブックマークをすべてアーカイブ化しています。&lt;/p&gt;&#xA;&lt;p&gt;構築は2月頃を考えています。その前にProxmoxをいろいろ構築しないといけないのですが&amp;hellip;DNSの設定で躓いています。&lt;/p&gt;&#xA;&lt;p&gt;いろいろいじってみても、まともに起動しない。&lt;/p&gt;&#xA;&lt;p&gt;どうやらProxmoxに直接入れられるらしく、その場合VMがいらないらしいのでやってみたのですが、今度はVMが起動しなくなりました。&lt;/p&gt;&#xA;&lt;p&gt;ネットワークって難しい、、、&lt;/p&gt;&#xA;&lt;p&gt;そうそう、ジャンクワールドに3800円でRTX1200（NVIDIAではなくYAMAHAね）が入荷していたので、それを買おうと思います。来月給料が出たら。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>新しいサイトも構築中</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-13-newsite-construction/</link>
-      <pubDate>Tue, 13 Jan 2026 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-13-newsite-construction/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.porubu.com&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;新しいサイト&lt;/a&gt;も、現在新しく作り直しています。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>新ブログの更新を開始しました</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-12-site-moved/</link>
-      <pubDate>Mon, 12 Jan 2026 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-12-site-moved/</guid>
-      <description>&lt;p&gt;これまでWordPressだったりはてなブログだったりでブログを更新していましたが、この度Jekyllに引っ越しました。&lt;/p&gt;&#xA;&lt;p&gt;MarkdownはJoplinで慣れているので、特に問題はないと思います。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、新しいブログでもよろしくおねがいします。&lt;/p&gt;</description>
-    </item>
     <item>
       <title>中古で自作もありだな...と</title>
       <link>http://localhost:1313/blog/2025/2025-11-28-%e4%b8%ad%e5%8f%a4%e3%81%a7%e8%87%aa%e4%bd%9c%e3%82%82%e3%81%82%e3%82%8a%e3%81%a0%e3%81%aa-%e3%81%a8/</link>
@@ -336,13 +203,6 @@
       <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
       <guid>http://localhost:1313/blog/2025/2025-03-29-welcome-to-jekyll/</guid>
       <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;&#xA;&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Where &lt;code&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code&gt;MONTH&lt;/code&gt; and &lt;code&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>テストだお</title>
-      <link>http://localhost:1313/blog/2026/01/2026-01-11-test/</link>
-      <pubDate>Sat, 29 Mar 2025 00:26:09 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2026/01/2026-01-11-test/</guid>
-      <description>&lt;p&gt;文句ある？&lt;/p&gt;</description>
     </item>
     <item>
       <title>日記用ブログを引っ越します</title>

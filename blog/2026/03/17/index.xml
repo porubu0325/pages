@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on PORUBU.com</title>
+    <link>http://localhost:1313/blog/2026/03/17/</link>
+    <description>Recent content in Blog on PORUBU.com</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 16 Mar 2026 23:09:50 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/2026/03/17/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新しいCPUファンが届いた</title>
+      <link>http://localhost:1313/blog/2026/03/17/new-cpu-fan/</link>
+      <pubDate>Mon, 16 Mar 2026 23:09:50 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/17/new-cpu-fan/</guid>
+      <description>&lt;p&gt;ブログ毎日更新3日目。&#xA;新しいCPUファンが届いた。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;2026-03-17-newcpufan.jpeg&#34; alt=&#34;CPUファンの画像&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;2026-03-17-newparts.jpg&#34; alt=&#34;パーツ類&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
