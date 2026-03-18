@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-03-18T21:50:21+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/03/18/net-tsunagaranai/</loc>
+    <lastmod>2026-03-18T21:50:21+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/2026/03/17/new-cpu-fan/</loc>
-    <lastmod>2026-03-16T23:09:50+09:00</lastmod>
+    <lastmod>2026-03-17T23:09:50+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/03/16/cloudflare-pages/</loc>
     <lastmod>2026-03-16T07:56:04+09:00</lastmod>
@@ -16,9 +22,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/2026/03/11/wasted-time/</loc>
     <lastmod>2026-03-11T00:38:19+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-03-07T00:16:33+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/planeted/</loc>
     <lastmod>2026-03-06T18:37:59+09:00</lastmod>

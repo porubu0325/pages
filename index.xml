@@ -6,14 +6,21 @@
     <description>Recent content in ようこそ on PORUBU.com</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 16 Mar 2026 23:09:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 21:50:21 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>なんかネットにつながらなかった</title>
+      <link>http://localhost:1313/blog/2026/03/18/net-tsunagaranai/</link>
+      <pubDate>Wed, 18 Mar 2026 21:50:21 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/18/net-tsunagaranai/</guid>
+      <description>&lt;p&gt;このブログを書く数時間ぐらい前になんか急にネットに繋がらなくなりました。&lt;/p&gt;&#xA;&lt;p&gt;なんかたま〜にこういうことが起こります。&lt;/p&gt;&#xA;&lt;p&gt;ルーターがISPを契約したら必ずもらえるNEC製だからでしょうか？&lt;/p&gt;&#xA;&lt;p&gt;今は原因がわかりません。&lt;/p&gt;&#xA;&lt;p&gt;&amp;hellip;これだけ書いておけばいいか。とりあえずブログ毎日更新4日目でした。&lt;/p&gt;&#xA;&lt;h1 id=&#34;お絵描きのコーナー&#34;&gt;&#xA;  お絵描きのコーナー&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e3%81%8a%e7%b5%b5%e6%8f%8f%e3%81%8d%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;76日目。&lt;/p&gt;&#xA;&lt;p&gt;オリキャラの駒風悠衣香（こまかぜゆいか）、通称コマユイが形になってきました。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../2026-03-18-illust-day76.jpeg&#34; alt=&#34;76日目&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>新しいCPUファンが届いた</title>
       <link>http://localhost:1313/blog/2026/03/17/new-cpu-fan/</link>
-      <pubDate>Mon, 16 Mar 2026 23:09:50 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 23:09:50 +0900</pubDate>
       <guid>http://localhost:1313/blog/2026/03/17/new-cpu-fan/</guid>
-      <description>&lt;p&gt;ブログ毎日更新3日目。&#xA;新しいCPUファンが届いた。&lt;/p&gt;&#xA;&lt;p&gt;![2026-03-17-newcpufan.jpeg]&lt;/p&gt;</description>
+      <description>&lt;p&gt;ブログ毎日更新3日目。&#xA;新しいCPUファンが届いた。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../2026-03-17-newcpufan.jpeg&#34; alt=&#34;CPUファンの画像&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;この3ヶ月間で取っておいたパーツ類です。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../2026-03-17-newparts.jpg&#34; alt=&#34;パーツ類&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;こんな感じに仕上がりました&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../2026-03-17-pc1.jpeg&#34; alt=&#34;こんなかんじ&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../2026-03-17-pc2.jpeg&#34; alt=&#34;こんなかんじ2&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloudflare Pages</title>
