@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on PORUBU.com</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 19 Mar 2026 22:07:41 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:26:09 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NASが欲しい</title>
+      <link>http://localhost:1313/blog/2026/03/20/udon/</link>
+      <pubDate>Sat, 21 Mar 2026 00:26:09 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/20/udon/</guid>
+      <description>&lt;p&gt;ブログ6日目。&lt;/p&gt;&#xA;&lt;p&gt;現在、NextCloudをカゴヤのVPS上で、immichとJellyfinをメインPC上で動かしていますが、そろそろいい加減自宅サーバー上に移したいです。&lt;del&gt;そうしないと自宅サーバーの用途がほぼ皆無に&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近まではSynologyのNASキットを検討していましたが、やはり最安モデルは2ベイまでで、それ以上となると高くつくし、既存のパーツを流用した方が安上がりとわかったため、最終的に、&lt;a href=&#34;https://www.truenas.com/truenas-community-edition/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TrueNAS&lt;/a&gt;に決定しました。&lt;/p&gt;&#xA;&lt;p&gt;設定や手間はSynologyより難しいそうですが、まあ勉強と思えば問題はない。&lt;/p&gt;&#xA;&lt;p&gt;というわけで、現在検討しているスペックは以下の通り。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CPU - AMD Ryzen 3 4300G (4C/8T)&lt;/li&gt;&#xA;&lt;li&gt;RAM - 16GB DDR4 SDRAM (8GB DIMM x 2)&lt;/li&gt;&#xA;&lt;li&gt;NVMe SSD - 256GB NVMe SSD&lt;/li&gt;&#xA;&lt;li&gt;SATA HDD - 8TB TOSHIBA N100 x 最大4&lt;/li&gt;&#xA;&lt;li&gt;M/B - MSI PRO A520&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;まあ、多くのパーツが流用ですが、HDDだけは新しく買います。できればケースとかも&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;そんじゃ、短いけどこんな感じで。&lt;/p&gt;&#xA;&lt;h1 id=&#34;お絵描きのコーナー&#34;&gt;&#xA;  お絵描きのコーナー&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e3%81%8a%e7%b5%b5%e6%8f%8f%e3%81%8d%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;78日目。さくらとオリキャラ兼うちのこ。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../2026-03-20-oekaki.jpeg&#34; alt=&#34;78日目&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>メインPCで伺か（SSP）上でさくらを動かすことに成功</title>
       <link>http://localhost:1313/blog/2026/03/19/haruna/</link>
