@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/2026/03/22/arch/</loc>
+    <lastmod>2026-03-22T21:01:22+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-03-21T00:26:09+09:00</lastmod>
+    <lastmod>2026-03-22T21:01:22+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/03/21/x/</loc>
+    <lastmod>2026-03-21T13:10:56+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/03/20/udon/</loc>
     <lastmod>2026-03-21T00:26:09+09:00</lastmod>
@@ -68,7 +74,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="http://localhost:1313/"
                 />
   </url><url>
@@ -215,7 +221,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="http://localhost:1313/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/"
                 />
   </url><url>
@@ -227,7 +233,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="http://localhost:1313/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"
                 />
   </url><url>
@@ -239,7 +245,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="http://localhost:1313/%E3%82%BF%E3%82%B0/"
                 />
   </url><url>
@@ -251,7 +257,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="http://localhost:1313/%E4%BD%9C%E8%80%85/"
                 />
   </url>

@@ -5,9 +5,16 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in ようこそ on PORUBU.com</description>
     <generator>Hugo</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Sat, 21 Mar 2026 13:10:56 +0900</lastBuildDate>
+    <language>ja</language>
+    <lastBuildDate>Sun, 22 Mar 2026 21:01:22 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch</title>
+      <link>http://localhost:1313/blog/2026/03/22/arch/</link>
+      <pubDate>Sun, 22 Mar 2026 21:01:22 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/03/22/arch/</guid>
+      <description>&lt;p&gt;ブログ8日目。&lt;/p&gt;&#xA;&lt;p&gt;余ったノートPCになんかOS入れようとしてます。&lt;/p&gt;&#xA;&lt;p&gt;現在は以下を候補にしています。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CalyxOS&lt;/li&gt;&#xA;&lt;li&gt;Manjaro Linux&lt;/li&gt;&#xA;&lt;li&gt;Arch Linux&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ただし、CalyxとManjaroは入れようとするとTPMとかの問題でインストーラーが起動せず、Archはそもそもまだやってません。&lt;/p&gt;&#xA;&lt;p&gt;以上、今日の日記でした。&lt;/p&gt;&#xA;&lt;h1 id=&#34;お絵描きのコーナー&#34;&gt;&#xA;  お絵描きのコーナー&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e3%81%8a%e7%b5%b5%e6%8f%8f%e3%81%8d%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;80日目。初めて横顔を描いた。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../2026-03-22-oekaki.jpeg&#34; alt=&#34;80日目&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Xの話（※愚痴です）</title>
       <link>http://localhost:1313/blog/2026/03/21/x/</link>
