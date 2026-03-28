@@ -2,278 +2,284 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50863/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-03-28T23:40:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/03/28/cachyos/</loc>
+    <lastmod>2026-03-28T23:40:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/03/27/i-stopped-using-ai/</loc>
+    <lastmod>2026-03-27T18:32:48+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/03/26/ai-wasted-time/</loc>
     <lastmod>2026-03-26T10:40:47+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/26/ai-wasted-time/</loc>
-    <lastmod>2026-03-26T10:40:47+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:50863/blog/2026/03/25/birthday/</loc>
+    <loc>http://localhost:1313/blog/2026/03/25/birthday/</loc>
     <lastmod>2026-03-25T08:11:16+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/24/ai/</loc>
+    <loc>http://localhost:1313/blog/2026/03/24/ai/</loc>
     <lastmod>2026-03-24T11:24:07+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/23/study/</loc>
+    <loc>http://localhost:1313/blog/2026/03/23/study/</loc>
     <lastmod>2026-03-23T11:50:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/22/arch/</loc>
+    <loc>http://localhost:1313/blog/2026/03/22/arch/</loc>
     <lastmod>2026-03-22T21:01:22+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/21/x/</loc>
+    <loc>http://localhost:1313/blog/2026/03/21/x/</loc>
     <lastmod>2026-03-21T13:10:56+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/20/udon/</loc>
+    <loc>http://localhost:1313/blog/2026/03/20/udon/</loc>
     <lastmod>2026-03-21T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/19/haruna/</loc>
+    <loc>http://localhost:1313/blog/2026/03/19/haruna/</loc>
     <lastmod>2026-03-19T22:07:41+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/18/net-tsunagaranai/</loc>
+    <loc>http://localhost:1313/blog/2026/03/18/net-tsunagaranai/</loc>
     <lastmod>2026-03-18T21:50:21+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/17/new-cpu-fan/</loc>
+    <loc>http://localhost:1313/blog/2026/03/17/new-cpu-fan/</loc>
     <lastmod>2026-03-17T23:09:50+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/about/mission/</loc>
+    <loc>http://localhost:1313/about/mission/</loc>
     <lastmod>2026-03-16T12:25:39+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/16/cloudflare-pages/</loc>
+    <loc>http://localhost:1313/blog/2026/03/16/cloudflare-pages/</loc>
     <lastmod>2026-03-16T07:56:04+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/15/ukagaka/</loc>
+    <loc>http://localhost:1313/blog/2026/03/15/ukagaka/</loc>
     <lastmod>2026-03-15T23:45:51+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/12/i-will-delete-microsoft-account/</loc>
+    <loc>http://localhost:1313/blog/2026/03/12/i-will-delete-microsoft-account/</loc>
     <lastmod>2026-03-12T00:23:24+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/11/wasted-time/</loc>
+    <loc>http://localhost:1313/blog/2026/03/11/wasted-time/</loc>
     <lastmod>2026-03-11T00:38:19+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/about/planeted/</loc>
+    <loc>http://localhost:1313/about/planeted/</loc>
     <lastmod>2026-03-06T18:37:59+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/05/macbook-neo/</loc>
+    <loc>http://localhost:1313/blog/2026/03/05/macbook-neo/</loc>
     <lastmod>2026-03-05T11:59:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/03/04/6hours-study/</loc>
+    <loc>http://localhost:1313/blog/2026/03/04/6hours-study/</loc>
     <lastmod>2026-03-04T23:07:16+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/contents/</loc>
+    <loc>http://localhost:1313/contents/</loc>
     <lastmod>2026-02-28T22:34:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/about/hardware/</loc>
+    <loc>http://localhost:1313/about/hardware/</loc>
     <lastmod>2026-02-25T22:06:48+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/02/25/25-blog-iten-test/</loc>
+    <loc>http://localhost:1313/blog/2026/02/25/25-blog-iten-test/</loc>
     <lastmod>2026-02-25T09:22:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/links/</loc>
+    <loc>http://localhost:1313/links/</loc>
     <lastmod>2026-02-24T22:57:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/server/</loc>
+    <loc>http://localhost:1313/server/</loc>
     <lastmod>2026-02-24T22:36:06+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/about/donate/</loc>
+    <loc>http://localhost:1313/about/donate/</loc>
     <lastmod>2026-02-24T22:34:50+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/about/profile/</loc>
+    <loc>http://localhost:1313/about/profile/</loc>
     <lastmod>2026-02-24T22:27:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-24T22:16:13+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50863/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:50863/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:50863/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-02-24T22:12:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/02/24/test/</loc>
+    <loc>http://localhost:1313/blog/2026/02/24/test/</loc>
     <lastmod>2026-02-24T22:12:22+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/02/10/blog-iten/</loc>
+    <loc>http://localhost:1313/blog/2026/02/10/blog-iten/</loc>
     <lastmod>2026-02-10T13:33:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-31-arigatou/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-31-arigatou/</loc>
     <lastmod>2026-01-31T13:33:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-24-genki-desu/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-24-genki-desu/</loc>
     <lastmod>2026-01-24T13:33:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-26-samui/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-26-samui/</loc>
     <lastmod>2026-01-24T13:33:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-23-kaiten-zushi/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-23-kaiten-zushi/</loc>
     <lastmod>2026-01-23T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-22-nemui/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-22-nemui/</loc>
     <lastmod>2026-01-22T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-19-framework/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-19-framework/</loc>
     <lastmod>2026-01-13T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-21-elon-sucks/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-21-elon-sucks/</loc>
     <lastmod>2026-01-13T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-20-webarchive/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-20-webarchive/</loc>
     <lastmod>2026-01-13T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-13-newsite-construction/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-13-newsite-construction/</loc>
     <lastmod>2026-01-13T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-12-site-moved/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-12-site-moved/</loc>
     <lastmod>2026-01-12T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-28-%e4%b8%ad%e5%8f%a4%e3%81%a7%e8%87%aa%e4%bd%9c%e3%82%82%e3%81%82%e3%82%8a%e3%81%a0%e3%81%aa-%e3%81%a8/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-28-%e4%b8%ad%e5%8f%a4%e3%81%a7%e8%87%aa%e4%bd%9c%e3%82%82%e3%81%82%e3%82%8a%e3%81%a0%e3%81%aa-%e3%81%a8/</loc>
     <lastmod>2025-11-27T15:30:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-27-zisakupc-enki/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-27-zisakupc-enki/</loc>
     <lastmod>2025-11-26T15:02:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-25--/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-25--/</loc>
     <lastmod>2025-11-25T14:53:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-24-new-chair/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-24-new-chair/</loc>
     <lastmod>2025-11-24T14:57:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-23-chair_and_streamingserver/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-23-chair_and_streamingserver/</loc>
     <lastmod>2025-11-23T13:12:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-19-hisasiburi-asablog/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-19-hisasiburi-asablog/</loc>
     <lastmod>2025-11-18T23:31:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-17-taicho/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-17-taicho/</loc>
     <lastmod>2025-11-17T14:33:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-14-konsyuumatuyarukoto/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-14-konsyuumatuyarukoto/</loc>
     <lastmod>2025-11-13T15:10:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-13-backupkeikaku/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-13-backupkeikaku/</loc>
     <lastmod>2025-11-12T15:15:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-12-blogwillmovevps/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-12-blogwillmovevps/</loc>
     <lastmod>2025-11-11T15:14:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-08-hugo-or-wordpress/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-08-hugo-or-wordpress/</loc>
     <lastmod>2025-11-08T14:25:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-05-immich-ireta/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-05-immich-ireta/</loc>
     <lastmod>2025-11-05T14:51:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-11-02-hisashiburi/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-11-02-hisashiburi/</loc>
     <lastmod>2025-11-02T13:59:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-10-kakukotonashi/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-10-kakukotonashi/</loc>
     <lastmod>2025-10-09T15:29:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-09-dram-koutou/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-09-dram-koutou/</loc>
     <lastmod>2025-10-08T22:51:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-06-x-yameyou/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-06-x-yameyou/</loc>
     <lastmod>2025-10-06T13:41:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-06-gpu-selfhost/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-06-gpu-selfhost/</loc>
     <lastmod>2025-10-05T15:45:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-04-osoiandnnewhone/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-04-osoiandnnewhone/</loc>
     <lastmod>2025-10-04T12:10:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-04-about/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-04-about/</loc>
     <lastmod>2025-10-04T06:53:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-03-bot-utushita/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-03-bot-utushita/</loc>
     <lastmod>2025-10-03T13:18:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-10-01-yarakashita/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-10-01-yarakashita/</loc>
     <lastmod>2025-10-01T00:50:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-09-30-hisabisano-blog/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-09-30-hisabisano-blog/</loc>
     <lastmod>2025-09-30T03:06:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-09-21-%e3%81%a4%e3%81%84%e3%81%ab%e6%96%b0%e3%81%97%e3%81%84%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%85%ac%e9%96%8b%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-09-21-%e3%81%a4%e3%81%84%e3%81%ab%e6%96%b0%e3%81%97%e3%81%84%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%85%ac%e9%96%8b%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</loc>
     <lastmod>2025-09-21T04:39:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-09-21-%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%88/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-09-21-%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%88/</loc>
     <lastmod>2025-09-21T04:34:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-09-21-hello-world/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-09-21-hello-world/</loc>
     <lastmod>2025-09-21T04:33:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-09-21-sample-page/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-09-21-sample-page/</loc>
     <lastmod>2025-09-21T04:33:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-09-21-privacy-policy/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-09-21-privacy-policy/</loc>
     <lastmod>2025-09-21T04:33:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-03-29-welcome-to-jekyll/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-03-29-welcome-to-jekyll/</loc>
     <lastmod>2025-03-29T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2026/01/2026-01-11-test/</loc>
+    <loc>http://localhost:1313/blog/2026/01/2026-01-11-test/</loc>
     <lastmod>2025-03-29T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-02-02-bitwarden/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-02-02-bitwarden/</loc>
     <lastmod>2025-03-29T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/2025-03-29-newblog/</loc>
+    <loc>http://localhost:1313/blog/2025/2025-03-29-newblog/</loc>
     <lastmod>2025-03-29T00:26:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/blog/2025/03/18-remode/</loc>
+    <loc>http://localhost:1313/blog/2025/03/18-remode/</loc>
     <lastmod>2025-03-18T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:50863/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/</loc>
+    <loc>http://localhost:1313/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50863/en/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/"
+                href="http://localhost:1313/en/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:50863/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/"
+                href="http://localhost:1313/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/"
                 />
   </url><url>
-    <loc>http://localhost:50863/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</loc>
+    <loc>http://localhost:1313/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50863/en/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"
+                href="http://localhost:1313/en/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:50863/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"
+                href="http://localhost:1313/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"
                 />
   </url><url>
-    <loc>http://localhost:50863/%E3%82%BF%E3%82%B0/</loc>
+    <loc>http://localhost:1313/%E3%82%BF%E3%82%B0/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50863/en/%E3%82%BF%E3%82%B0/"
+                href="http://localhost:1313/en/%E3%82%BF%E3%82%B0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:50863/%E3%82%BF%E3%82%B0/"
+                href="http://localhost:1313/%E3%82%BF%E3%82%B0/"
                 />
   </url><url>
-    <loc>http://localhost:50863/%E4%BD%9C%E8%80%85/</loc>
+    <loc>http://localhost:1313/%E4%BD%9C%E8%80%85/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50863/en/%E4%BD%9C%E8%80%85/"
+                href="http://localhost:1313/en/%E4%BD%9C%E8%80%85/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:50863/%E4%BD%9C%E8%80%85/"
+                href="http://localhost:1313/%E4%BD%9C%E8%80%85/"
                 />
   </url>
 </urlset>

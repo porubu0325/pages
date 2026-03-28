@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>カテゴリ on PORUBU.com</title>
-    <link>http://localhost:50863/en/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/</link>
+    <link>http://localhost:1313/en/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/</link>
     <description>Recent content in カテゴリ on PORUBU.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:50863/en/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
