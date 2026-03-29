@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自宅サーバ on PORUBU.com</title>
+    <link>http://localhost:1313/categories/%E8%87%AA%E5%AE%85%E3%82%B5%E3%83%BC%E3%83%90/</link>
+    <description>Recent content in 自宅サーバ on PORUBU.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Nov 2025 15:14:43 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E8%87%AA%E5%AE%85%E3%82%B5%E3%83%BC%E3%83%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>このサイトもVPSに移行予定</title>
+      <link>http://localhost:1313/blog/2025/2025-11-12-blogwillmovevps/</link>
+      <pubDate>Tue, 11 Nov 2025 15:14:43 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-11-12-blogwillmovevps/</guid>
+      <description>&lt;p&gt;このブログも週末にはVPSへ移行させる予定です&amp;hellip;とってもnginx上でWordPress動かす方法分かりませんが！！！！！！ 現在自宅サーバー上で動かしており、またCloudflare Tunnelを経由しているため、自宅サーバーが止まってる平日の12時から18時の間は見れないのですが、これが、見れるようになれます。やったね。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPUを使う用途をセルフホストできる？</title>
+      <link>http://localhost:1313/blog/2025/2025-10-06-gpu-selfhost/</link>
+      <pubDate>Sun, 05 Oct 2025 15:45:43 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-06-gpu-selfhost/</guid>
+      <description>&lt;p&gt;現在、運用している、またはしようとしている中でGPUが使用できるものとして、以下のソフトがあります。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jellyfin&lt;/li&gt;&#xA;&lt;li&gt;immich&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;どちらも、エンコードや機械学習とかで使うやつです。 今自宅鯖に刺さっているGPUは&lt;strong&gt;NVIDIA GeForce GTX 1630&lt;/strong&gt; で、Turing世代の一番下のモデルですが、メモリは4GBあり、ある程度のことになら使えます。 &lt;img src=&#34;http://localhost:1313/assets/wp-content/uploads/2025/10/2c3804d1bf348bab77997a4189285cda-300x138.png&#34; alt=&#34;&#34;&gt; では、もしAIをセルフホストするとなると&amp;hellip;？ 私はあらゆることをセルフホストしたいと考えており、生成AIも例外ではありません。 ChatGPTやGrokなどといったAIは、サブスク料金が非常に高く（月1万もする）、自宅鯖の電気代を余裕で越します。ならAIもセルフホストしてしまおうというわけです。 しかしAIもセルフホストするとなると、多めのビデオメモリのGPUを使用しないといけません。しかも、それらは中古市場でも高い傾向があるため、今の私ではどうしようもできない&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>botの稼働サーバーをメインPCから移した</title>
+      <link>http://localhost:1313/blog/2025/2025-10-03-bot-utushita/</link>
+      <pubDate>Fri, 03 Oct 2025 13:18:31 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/2025-10-03-bot-utushita/</guid>
+      <description>&lt;p&gt;TwitterとMisskey向けのPython製自作botを、メインPCからこのWordPressが動いている仮想ホストを動かしているサーバーに移しました（語彙力） .venv周りで苦労しましたが、やはり自分が作ったプログラムが動くとすっきり！！！！！！！！   あと、いろいろ自宅サーバーに移したいので、今使っているメインPCをサーバー化してしまおうか考えています。現在サーバーではNextCloudやWordPressが動いていますが、それ以外に、&lt;a href=&#34;https://eap.vg/server-info/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;かんたん宛名印刷さんみたいに&lt;/a&gt;監視ツールとかも自宅サーバーで動かそうかなと。 まだまだメモリに余裕はあるし、CPUはほとんど使ってくれないので、多分大丈夫だと思います。自宅サーバーで動かせるものはどんどん動かしてしまえ！（でもメールは当分さくらインターネットのお世話になります&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
