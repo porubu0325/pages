@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flash倉庫予定地 on PORUBU.com</title>
+    <link>http://localhost:1313/contents/flash/</link>
+    <description>Recent content in Flash倉庫予定地 on PORUBU.com</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/contents/flash/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
