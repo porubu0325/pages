@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="ja-jp">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  セルフホストまとめ記事 · PORUBU.com
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="hob">
+<meta name="description" content="
+  自前で運用しているもの
+  
+    
+    Link to heading
+  
+
+
+  NextCloud
+  
+    
+    Link to heading
+  
+
+
+代替: DropBox、Google Drive、OneDrive、pCloudなど
+色々なファイルを大量に置いて所有しているいろんなPCと同期できます。私はダウンロードファイルとドキュメントファイルをMacに、すべてのデータをメインPCのHDDに同期しています。
+また、Joplinのファイルも
+
+
+  Vaultwarden
+  
+    
+    Link to heading
+  
+
+
+Vaultwarden: 自宅で安全にパスワードを管理するBitwarden互換サーバー
+
+
+  Jellyfin
+  
+    
+    Link to heading
+  
+
+おすすめリンク
+
+Jellyfinでメディアサーバを作ろう - Qiita
+【Jellyfin】自分だけのメディアサーバー - Qiita
+
+
+  Akkoma
+  
+    
+    Link to heading
+  
+
+
+ひとりAkkomaサーバを建てた話
+
+
+  今後運用したいもの
+  
+    
+    Link to heading
+  
+
+
+  PhotoPrism or Immich
+  
+    
+    Link to heading
+  
+
+
+  gitea
+  
+    
+    Link to heading
+  
+
+GitHubの代替になるものです。">
+<meta name="keywords" content="blog,desenvolvedor,pessoal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="セルフホストまとめ記事">
+  <meta name="twitter:description" content="自前で運用しているもの Link to heading NextCloud Link to heading 代替: DropBox、Google Drive、OneDrive、pCloudなど 色々なファイルを大量に置いて所有しているいろんなPCと同期できます。私はダウンロードファイルとドキュメントファイルをMacに、すべてのデータをメインPCのHDDに同期しています。 また、Joplinのファイルも Vaultwarden Link to heading Vaultwarden: 自宅で安全にパスワードを管理するBitwarden互換サーバー Jellyfin Link to heading おすすめリンク
+Jellyfinでメディアサーバを作ろう - Qiita 【Jellyfin】自分だけのメディアサーバー - Qiita Akkoma Link to heading ひとりAkkomaサーバを建てた話 今後運用したいもの Link to heading PhotoPrism or Immich Link to heading gitea Link to heading GitHubの代替になるものです。">
+
+<meta property="og:url" content="http://localhost:1313/blog/draft/self-hosting/">
+  <meta property="og:site_name" content="PORUBU.com">
+  <meta property="og:title" content="セルフホストまとめ記事">
+  <meta property="og:description" content="自前で運用しているもの Link to heading NextCloud Link to heading 代替: DropBox、Google Drive、OneDrive、pCloudなど 色々なファイルを大量に置いて所有しているいろんなPCと同期できます。私はダウンロードファイルとドキュメントファイルをMacに、すべてのデータをメインPCのHDDに同期しています。 また、Joplinのファイルも Vaultwarden Link to heading Vaultwarden: 自宅で安全にパスワードを管理するBitwarden互換サーバー Jellyfin Link to heading おすすめリンク
+Jellyfinでメディアサーバを作ろう - Qiita 【Jellyfin】自分だけのメディアサーバー - Qiita Akkoma Link to heading ひとりAkkomaサーバを建てた話 今後運用したいもの Link to heading PhotoPrism or Immich Link to heading gitea Link to heading GitHubの代替になるものです。">
+  <meta property="og:locale" content="ja_jp">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2026-03-31T23:39:04+09:00">
+    <meta property="article:modified_time" content="2026-03-31T23:39:04+09:00">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/blog/draft/self-hosting/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+  
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      PORUBU.com
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/blog/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contents/">Contents</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/links/">Links</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/server/">Server</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/en/">🇬🇧</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="http://localhost:1313/blog/draft/self-hosting/">
+          セルフホストまとめ記事
+        </a>
+      </h1>
+    </header>
+
+    <h1 id="自前で運用しているもの">
+  自前で運用しているもの
+  <a class="heading-link" href="#%e8%87%aa%e5%89%8d%e3%81%a7%e9%81%8b%e7%94%a8%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%82%82%e3%81%ae">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<h2 id="nextcloud">
+  NextCloud
+  <a class="heading-link" href="#nextcloud">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>代替: DropBox、Google Drive、OneDrive、pCloudなど
+色々なファイルを大量に置いて所有しているいろんなPCと同期できます。私はダウンロードファイルとドキュメントファイルをMacに、すべてのデータをメインPCのHDDに同期しています。
+また、Joplinのファイルも</li>
+</ul>
+<h2 id="vaultwarden">
+  Vaultwarden
+  <a class="heading-link" href="#vaultwarden">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><a href="https://zenn.dev/sunwood_ai_labs/articles/vaultwarden-self-hosted-bitwarden"  class="external-link" target="_blank" rel="noopener">Vaultwarden: 自宅で安全にパスワードを管理するBitwarden互換サーバー</a></li>
+</ul>
+<h2 id="jellyfin">
+  Jellyfin
+  <a class="heading-link" href="#jellyfin">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>おすすめリンク</p>
+<ul>
+<li><a href="https://qiita.com/ogawa_pro/items/ed00e2ad4e35fdbd2b5d"  class="external-link" target="_blank" rel="noopener">Jellyfinでメディアサーバを作ろう - Qiita</a></li>
+<li><a href="https://qiita.com/Amijakan/items/0ac52921cdfa5a64160d"  class="external-link" target="_blank" rel="noopener">【Jellyfin】自分だけのメディアサーバー - Qiita</a></li>
+</ul>
+<h2 id="akkoma">
+  Akkoma
+  <a class="heading-link" href="#akkoma">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><a href="https://www.suzu-ya.info/posts/akkoma-personal-instance/"  class="external-link" target="_blank" rel="noopener">ひとりAkkomaサーバを建てた話</a></li>
+</ul>
+<h1 id="今後運用したいもの">
+  今後運用したいもの
+  <a class="heading-link" href="#%e4%bb%8a%e5%be%8c%e9%81%8b%e7%94%a8%e3%81%97%e3%81%9f%e3%81%84%e3%82%82%e3%81%ae">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<h2 id="photoprism-or-immich">
+  PhotoPrism or Immich
+  <a class="heading-link" href="#photoprism-or-immich">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="gitea">
+  gitea
+  <a class="heading-link" href="#gitea">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>GitHubの代替になるものです。</p>
+<h2 id="wallabag">
+  wallabag
+  <a class="heading-link" href="#wallabag">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>代替: Pocket</li>
+</ul>
+<h2 id="freshrss">
+  FreshRSS
+  <a class="heading-link" href="#freshrss">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>代替: Feedly
+<a href="https://github.com/FreshRSS/FreshRSS"  class="external-link" target="_blank" rel="noopener">https://github.com/FreshRSS/FreshRSS</a></li>
+</ul>
+<h2 id="archivebox">
+  ArchiveBox
+  <a class="heading-link" href="#archivebox">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>代替: Wayback Machineなど</li>
+</ul>
+<h2 id="joplin">
+  Joplin
+  <a class="heading-link" href="#joplin">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>代替え: Evernote、Notion、Google Keep、iCloudなど</li>
+<li>現在はNextCloud上で同期していますが、いずれは別でJoplinのアプリを用意したいです。</li>
+</ul>
+<h2 id="vikunjatodo管理アプリ">
+  Vikunja（Todo管理アプリ）
+  <a class="heading-link" href="#vikunjatodo%e7%ae%a1%e7%90%86%e3%82%a2%e3%83%97%e3%83%aa">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="wekan看板型タスク管理アプリ">
+  Wekan（看板型タスク管理アプリ）
+  <a class="heading-link" href="#wekan%e7%9c%8b%e6%9d%bf%e5%9e%8b%e3%82%bf%e3%82%b9%e3%82%af%e7%ae%a1%e7%90%86%e3%82%a2%e3%83%97%e3%83%aa">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="hedgedoc">
+  HedgeDoc
+  <a class="heading-link" href="#hedgedoc">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="bulletnotes">
+  BulletNotes
+  <a class="heading-link" href="#bulletnotes">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="agendav">
+  agendav
+  <a class="heading-link" href="#agendav">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="roundcube">
+  Roundcube
+  <a class="heading-link" href="#roundcube">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="komga">
+  Komga
+  <a class="heading-link" href="#komga">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="paperless-ngx">
+  paperless-ngx
+  <a class="heading-link" href="#paperless-ngx">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h2 id="exment">
+  Exment
+  <a class="heading-link" href="#exment">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h1 id="セルフホスト移行状況">
+  セルフホスト移行状況
+  <a class="heading-link" href="#%e3%82%bb%e3%83%ab%e3%83%95%e3%83%9b%e3%82%b9%e3%83%88%e7%a7%bb%e8%a1%8c%e7%8a%b6%e6%b3%81">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<ul>
+<li>メール: さくらのメールボックス → Mailuセルフホスト</li>
+<li>カレンダー: NextCloud</li>
+<li>ドライブ: NextCloud</li>
+<li>DNS: Cloudflare + NextDNS</li>
+<li>パスワード: Vaultwarden</li>
+<li>ミーティング: Jitsi-Meet（予定）</li>
+<li>ミュージック: Funkwhale</li>
+</ul>
+<h1 id="参考リンク">
+  参考リンク
+  <a class="heading-link" href="#%e5%8f%82%e8%80%83%e3%83%aa%e3%83%b3%e3%82%af">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<ul>
+<li><a href="https://qiita.com/jqtype/items/ca576967ffa1a25e6e4a#mailu-smtp%E3%81%AE%E3%81%BF"  class="external-link" target="_blank" rel="noopener">個人的・仲間内でセルフホストしているサービス 2022 - Google Workspaceから離脱するための検討ログ (2) - #Docker - Qiita</a></li>
+</ul>
+
+  </article>
+</section>
+
+  
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2025 -
+    
+    2026
+     hob 
+    ·
+    
+     <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+</html>
