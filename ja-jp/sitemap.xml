@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-04-05T20:29:57+09:00</lastmod>
+    <lastmod>2026-04-07T00:10:29+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/04/07/jellyfin-installed/</loc>
+    <lastmod>2026-04-07T00:10:29+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/04/05/odekake/</loc>
     <lastmod>2026-04-05T20:29:57+09:00</lastmod>
@@ -13,6 +16,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/2026/04/03/video-editing/</loc>
     <lastmod>2026-04-03T10:02:21+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/04/02/koragazo/</loc>
+    <lastmod>2026-04-02T11:19:03+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/04/01/april-fools/</loc>
     <lastmod>2026-04-01T09:09:41+09:00</lastmod>
