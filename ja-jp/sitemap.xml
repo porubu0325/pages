@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-04-25T15:43:39+09:00</lastmod>
+    <lastmod>2026-05-02T23:21:58+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/05/02/installed-phpbb/</loc>
+    <lastmod>2026-05-02T23:21:58+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/05/01/new-forum/</loc>
+    <lastmod>2026-05-01T22:24:57+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/04/30/mullvad-vpn/</loc>
+    <lastmod>2026-04-30T07:26:27+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/04/29/changed-main-browser/</loc>
+    <lastmod>2026-04-29T10:13:33+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/04/27/new-laptop/</loc>
+    <lastmod>2026-04-27T19:46:49+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/04/25/mata-dekaketa/</loc>
     <lastmod>2026-04-25T15:43:39+09:00</lastmod>
