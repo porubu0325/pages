@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-05-03T10:13:12+09:00</lastmod>
+    <lastmod>2026-05-05T08:33:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/05/05/new-website/</loc>
+    <lastmod>2026-05-05T08:33:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/05/04/golden-week/</loc>
+    <lastmod>2026-05-04T12:16:07+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/05/03/open-webui/</loc>
     <lastmod>2026-05-03T10:13:12+09:00</lastmod>
