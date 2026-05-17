@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on PORUBU.com</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 May 2026 11:17:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:42:42 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misskeyサーバーを移転しました</title>
+      <link>http://localhost:1313/blog/2026/05/18/migrated-misskey/</link>
+      <pubDate>Mon, 18 May 2026 06:42:42 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2026/05/18/migrated-misskey/</guid>
+      <description>&lt;p&gt;MisskeyサーバーをようやくKAGOYAに移転できました。今の所、以下の5台を稼働させています。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;WWW用&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vCPU、2GB RAM、200GB NVMe SSD&lt;/li&gt;&#xA;&lt;li&gt;Debian / Nginx&lt;/li&gt;&#xA;&lt;li&gt;メモリ使用量 275MB / 1.92GB （スワップ 252KB）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;(スイッチ)&lt;/li&gt;&#xA;&lt;li&gt;Nginxサービス用&#xA;&lt;ul&gt;&#xA;&lt;li&gt;4 vCPU、4GB RAM、600GB NVMe SSD&lt;/li&gt;&#xA;&lt;li&gt;Debian / Misskey&lt;/li&gt;&#xA;&lt;li&gt;メモリ使用量 1.90GB / 3.82GB （スワップ 6.15MB）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Apacheサービス用&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 vCPU、2GB RAM、200GB NVMe SSD&lt;/li&gt;&#xA;&lt;li&gt;Debian / NextCloud、FreshRSS&lt;/li&gt;&#xA;&lt;li&gt;メモリ使用量 1.05GB / 1.92GB （スワップ 138MB）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Dockerサービス用&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 vCPU、2GB RAM、200GB NVMe SSD&lt;/li&gt;&#xA;&lt;li&gt;Debian / SearXNG&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;(スイッチ)&lt;/li&gt;&#xA;&lt;li&gt;DB&#xA;&lt;ul&gt;&#xA;&lt;li&gt;4 vCPU、4GB RAM、600GB NVMe SSD&lt;/li&gt;&#xA;&lt;li&gt;FreeBSD / MariaDB、PostgreSQL、Valkey&lt;/li&gt;&#xA;&lt;li&gt;メモリ使用量 3.31GB / 3.97GB （スワップ 138MB）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;今回は実験的にFreeBSDを使ってみました。色々情報が違って、DB移行の際に手こずりましたが、今は何とか動いています。こう言うのは本番用でやるものではないのですが、動かしてしまったものは仕方ないので。。。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Dockerサービスはnginx用VPSで動かすことに</title>
       <link>http://localhost:1313/blog/2026/05/14/docker-vps/</link>
